@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Nautilus LoRa Dashboard</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <h1>Nautilus LoRa telemetry</h1>
+      <span class="source" id="source">connecting…</span>
+    </div>
+    <div class="statusgroup">
+      <span class="conn is-off" id="conn"><span class="conn-dot"></span><span id="connText">connecting</span></span>
+      <span class="pkts" id="pkts">0 packets</span>
+      <button class="btn ghost" id="themeBtn" title="Toggle light/dark">◐</button>
+    </div>
+  </header>
+
+  <div class="controls">
+    <label for="windowSel">Window</label>
+    <select id="windowSel" class="btn">
+      <option value="60">Last 60</option>
+      <option value="120" selected>Last 120</option>
+      <option value="300">Last 300</option>
+      <option value="0">All</option>
+    </select>
+    <button class="btn" id="pauseBtn">Pause</button>
+    <span class="flash" id="flash"></span>
+  </div>
+
+  <main>
+    <section class="group" id="group-lora" hidden>
+      <h2 class="sect-title">LoRa RX <span class="meta" id="meta-lora"></span></h2>
+      <div class="grid" id="grid-lora"></div>
+    </section>
+    <section class="group" id="group-telemetry" hidden>
+      <h2 class="sect-title">Telemetry <span class="meta" id="meta-telemetry"></span></h2>
+      <div class="grid" id="grid-telemetry"></div>
+    </section>
+  </main>
+
+  <section class="logwrap">
+    <h2 class="sect-title">Raw feed</h2>
+    <div class="log" id="log"></div>
+  </section>
+
+  <script src="/vendor/chartjs/chart.umd.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

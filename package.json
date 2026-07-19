@@ -1,0 +1,19 @@
+{
+  "name": "nautilus-dashboard",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Live plotting dashboard for Nautilus LoRa RX telemetry — replays a log file or reads the receiver's serial port",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "fake": "node server.js --mode fake --file data/sample-log.txt",
+    "demo": "node server.js --mode fake --file data/demo-long.txt --interval 200",
+    "demo:tx": "node server.js --mode fake --file data/demo-telemetry.txt --interval 150",
+    "serial": "node server.js --mode serial"
+  },
+  "dependencies": {
+    "chart.js": "^4.4.3",
+    "express": "^4.19.2",
+    "serialport": "^12.0.0"
+  }
+}

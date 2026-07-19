@@ -1,0 +1,16 @@
+LoRa RX #56: T=36.5 C, PM1=12.3, PM2=25.7 ug/m3, flame=512, RSSI=-107 dBm, SNR=7.7 dB
+LoRa RX #57: T=37.0 C, PM1=12.3, PM2=25.7 ug/m3, flame=512, RSSI=-107 dBm, SNR=7.2 dB
+LoRa RX #58: T=32.0 C, PM1=12.3, PM2=25.7 ug/m3, flame=512, RSSI=-107 dBm, SNR=8.0 dB
+LoRa RX #59: T=36.5 C, PM1=12.3, PM2=25.7 ug/m3, flame=512, RSSI=-107 dBm, SNR=7.7 dB
+LoRa RX #60: T=37.0 C, PM1=12.3, PM2=25.7 ug/m3, flame=512, RSSI=-107 dBm, SNR=7.7 dB
+LoRa RX #61: T=32.0 C, PM1=12.3, PM2=25.7 ug/m3, flame=512, RSSI=-107 dBm, SNR=7.5 dB
+LoRa RX #62: T=36.5 C, PM1=12.3, PM2=25.7 ug/m3, flame=512, RSSI=-107 dBm, SNR=7.7 dB
+LoRa RX #63: T=37.0 C, PM1=12.3, PM2=25.7 ug/m3, flame=512, RSSI=-107 dBm, SNR=8.3 dB
+LoRa RX #64: T=32.0 C, PM1=12.3, PM2=25.7 ug/m3, flame=512, RSSI=-107 dBm, SNR=8.0 dB
+LoRa RX #65: T=36.5 C, PM1=12.3, PM2=25.7 ug/m3, flame=512, RSSI=-107 dBm, SNR=7.7 dB
+LoRa RX #66: T=37.0 C, PM1=12.3, PM2=25.7 ug/m3, flame=512, RSSI=-107 dBm, SNR=7.5 dB
+LoRa RX #67: T=32.0 C, PM1=12.3, PM2=25.7 ug/m3, flame=512, RSSI=-107 dBm, SNR=8.0 dB
+LoRa RX #68: T=36.5 C, PM1=12.3, PM2=25.7 ug/m3, flame=512, RSSI=-107 dBm, SNR=7.2 dB
+LoRa RX #69: T=37.0 C, PM1=12.3, PM2=25.7 ug/m3, flame=512, RSSI=-108 dBm, SNR=7.0 dB
+LoRa RX #70: T=32.0 C, PM1=12.3, PM2=25.7 ug/m3, flame=512, RSSI=-108 dBm, SNR=6.7 dB
+LoRa RX #71: T=36.5 C, PM1=12.3, PM2=25.7 ug/m3, flame=512, RSSI=-107 dBm, SNR=7.0 dB

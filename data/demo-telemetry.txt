@@ -1,0 +1,3900 @@
+SCD30 read: FAILED
+SPS30 read: FAILED
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=10000 co2_ppm=nan pm2p5_ug_m3=nan boost_v=0.490 charger_v=3.506
+Telemetry sample:
+  uptime_ms=10000
+  SCD30 ok=0 CO2=nan ppm T=nan C RH=nan %
+  SPS30 ok=0 PM1=nan PM2.5=nan PM4=nan PM10=nan
+  flame_adc=24 flame_digital=1
+  boost_input: V=0.490 I=0.0845 P=0.0423
+  charger_input: V=3.506 I=0.1383 P=0.4849
+  boost_duty=1.80% buck_duty=3.09% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: FAILED
+SPS30 read: FAILED
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=20007 co2_ppm=nan pm2p5_ug_m3=nan boost_v=0.529 charger_v=3.492
+Telemetry sample:
+  uptime_ms=20007
+  SCD30 ok=0 CO2=nan ppm T=nan C RH=nan %
+  SPS30 ok=0 PM1=nan PM2.5=nan PM4=nan PM10=nan
+  flame_adc=23 flame_digital=1
+  boost_input: V=0.529 I=0.0806 P=0.0426
+  charger_input: V=3.492 I=0.1366 P=0.4769
+  boost_duty=2.27% buck_duty=3.24% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: FAILED
+SPS30 read: FAILED
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=30014 co2_ppm=nan pm2p5_ug_m3=nan boost_v=0.555 charger_v=3.527
+Telemetry sample:
+  uptime_ms=30014
+  SCD30 ok=0 CO2=nan ppm T=nan C RH=nan %
+  SPS30 ok=0 PM1=nan PM2.5=nan PM4=nan PM10=nan
+  flame_adc=24 flame_digital=1
+  boost_input: V=0.555 I=0.0913 P=0.0498
+  charger_input: V=3.527 I=0.1304 P=0.4598
+  boost_duty=1.06% buck_duty=3.52% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: FAILED
+SPS30 read: FAILED
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=40021 co2_ppm=nan pm2p5_ug_m3=nan boost_v=0.544 charger_v=3.506
+Telemetry sample:
+  uptime_ms=40021
+  SCD30 ok=0 CO2=nan ppm T=nan C RH=nan %
+  SPS30 ok=0 PM1=nan PM2.5=nan PM4=nan PM10=nan
+  flame_adc=28 flame_digital=1
+  boost_input: V=0.544 I=0.0940 P=0.0515
+  charger_input: V=3.506 I=0.1296 P=0.4544
+  boost_duty=3.48% buck_duty=3.22% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: FAILED
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=50028 co2_ppm=451.7 pm2p5_ug_m3=nan boost_v=0.555 charger_v=3.532
+Telemetry sample:
+  uptime_ms=50028
+  SCD30 ok=1 CO2=451.7 ppm T=24.80 C RH=42.76 %
+  SPS30 ok=0 PM1=nan PM2.5=nan PM4=nan PM10=nan
+  flame_adc=28 flame_digital=1
+  boost_input: V=0.555 I=0.0962 P=0.0534
+  charger_input: V=3.532 I=0.1300 P=0.4592
+  boost_duty=2.50% buck_duty=3.25% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: FAILED
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=60035 co2_ppm=450.7 pm2p5_ug_m3=nan boost_v=0.600 charger_v=3.563
+Telemetry sample:
+  uptime_ms=60035
+  SCD30 ok=1 CO2=450.7 ppm T=24.96 C RH=42.37 %
+  SPS30 ok=0 PM1=nan PM2.5=nan PM4=nan PM10=nan
+  flame_adc=27 flame_digital=1
+  boost_input: V=0.600 I=0.0986 P=0.0583
+  charger_input: V=3.563 I=0.1313 P=0.4678
+  boost_duty=3.92% buck_duty=3.48% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: FAILED
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=70042 co2_ppm=460.0 pm2p5_ug_m3=nan boost_v=0.576 charger_v=3.568
+Telemetry sample:
+  uptime_ms=70042
+  SCD30 ok=1 CO2=460.0 ppm T=25.14 C RH=42.74 %
+  SPS30 ok=0 PM1=nan PM2.5=nan PM4=nan PM10=nan
+  flame_adc=26 flame_digital=1
+  boost_input: V=0.576 I=0.0982 P=0.0561
+  charger_input: V=3.568 I=0.1279 P=0.4564
+  boost_duty=2.23% buck_duty=3.60% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: FAILED
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=80049 co2_ppm=469.1 pm2p5_ug_m3=nan boost_v=0.603 charger_v=3.567
+Telemetry sample:
+  uptime_ms=80049
+  SCD30 ok=1 CO2=469.1 ppm T=25.19 C RH=43.07 %
+  SPS30 ok=0 PM1=nan PM2.5=nan PM4=nan PM10=nan
+  flame_adc=27 flame_digital=1
+  boost_input: V=0.603 I=0.1022 P=0.0623
+  charger_input: V=3.567 I=0.1213 P=0.4329
+  boost_duty=3.13% buck_duty=3.94% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: FAILED
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=90056 co2_ppm=471.4 pm2p5_ug_m3=nan boost_v=0.629 charger_v=3.586
+Telemetry sample:
+  uptime_ms=90056
+  SCD30 ok=1 CO2=471.4 ppm T=25.34 C RH=42.70 %
+  SPS30 ok=0 PM1=nan PM2.5=nan PM4=nan PM10=nan
+  flame_adc=30 flame_digital=1
+  boost_input: V=0.629 I=0.1016 P=0.0641
+  charger_input: V=3.586 I=0.1208 P=0.4333
+  boost_duty=3.77% buck_duty=4.05% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: FAILED
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=100063 co2_ppm=486.7 pm2p5_ug_m3=nan boost_v=0.632 charger_v=3.591
+Telemetry sample:
+  uptime_ms=100063
+  SCD30 ok=1 CO2=486.7 ppm T=25.42 C RH=42.89 %
+  SPS30 ok=0 PM1=nan PM2.5=nan PM4=nan PM10=nan
+  flame_adc=29 flame_digital=1
+  boost_input: V=0.632 I=0.1087 P=0.0692
+  charger_input: V=3.591 I=0.1207 P=0.4333
+  boost_duty=4.34% buck_duty=4.19% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=110070 co2_ppm=478.7 pm2p5_ug_m3=16.15 boost_v=0.663 charger_v=3.591
+Telemetry sample:
+  uptime_ms=110070
+  SCD30 ok=1 CO2=478.7 ppm T=25.28 C RH=42.70 %
+  SPS30 ok=1 PM1=9.06 PM2.5=16.15 PM4=17.88 PM10=20.89
+  flame_adc=29 flame_digital=1
+  boost_input: V=0.663 I=0.1117 P=0.0737
+  charger_input: V=3.591 I=0.1169 P=0.4198
+  boost_duty=4.67% buck_duty=4.35% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=120077 co2_ppm=490.2 pm2p5_ug_m3=16.49 boost_v=0.708 charger_v=3.598
+Telemetry sample:
+  uptime_ms=120077
+  SCD30 ok=1 CO2=490.2 ppm T=25.63 C RH=43.09 %
+  SPS30 ok=1 PM1=9.35 PM2.5=16.49 PM4=18.76 PM10=20.91
+  flame_adc=29 flame_digital=1
+  boost_input: V=0.708 I=0.1080 P=0.0769
+  charger_input: V=3.598 I=0.1116 P=0.4016
+  boost_duty=4.96% buck_duty=4.84% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=130084 co2_ppm=494.3 pm2p5_ug_m3=15.15 boost_v=0.697 charger_v=3.603
+Telemetry sample:
+  uptime_ms=130084
+  SCD30 ok=1 CO2=494.3 ppm T=25.62 C RH=43.10 %
+  SPS30 ok=1 PM1=8.62 PM2.5=15.15 PM4=17.17 PM10=19.32
+  flame_adc=28 flame_digital=1
+  boost_input: V=0.697 I=0.1186 P=0.0833
+  charger_input: V=3.603 I=0.1104 P=0.3977
+  boost_duty=4.77% buck_duty=4.78% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=140091 co2_ppm=492.5 pm2p5_ug_m3=16.97 boost_v=0.751 charger_v=3.595
+Telemetry sample:
+  uptime_ms=140091
+  SCD30 ok=1 CO2=492.5 ppm T=25.81 C RH=42.89 %
+  SPS30 ok=1 PM1=9.45 PM2.5=16.97 PM4=19.05 PM10=21.52
+  flame_adc=28 flame_digital=1
+  boost_input: V=0.751 I=0.1159 P=0.0873
+  charger_input: V=3.595 I=0.1129 P=0.4059
+  boost_duty=5.94% buck_duty=4.47% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=150098 co2_ppm=490.9 pm2p5_ug_m3=16.70 boost_v=0.778 charger_v=3.610
+Telemetry sample:
+  uptime_ms=150098
+  SCD30 ok=1 CO2=490.9 ppm T=25.71 C RH=43.11 %
+  SPS30 ok=1 PM1=9.46 PM2.5=16.70 PM4=18.85 PM10=21.40
+  flame_adc=31 flame_digital=1
+  boost_input: V=0.778 I=0.1207 P=0.0946
+  charger_input: V=3.610 I=0.1100 P=0.3970
+  boost_duty=6.58% buck_duty=5.22% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=160105 co2_ppm=498.3 pm2p5_ug_m3=16.74 boost_v=0.755 charger_v=3.610
+Telemetry sample:
+  uptime_ms=160105
+  SCD30 ok=1 CO2=498.3 ppm T=25.94 C RH=43.03 %
+  SPS30 ok=1 PM1=9.46 PM2.5=16.74 PM4=18.48 PM10=21.52
+  flame_adc=30 flame_digital=1
+  boost_input: V=0.755 I=0.1139 P=0.0852
+  charger_input: V=3.610 I=0.1026 P=0.3704
+  boost_duty=5.40% buck_duty=5.04% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=170112 co2_ppm=506.0 pm2p5_ug_m3=16.21 boost_v=0.796 charger_v=3.647
+Telemetry sample:
+  uptime_ms=170112
+  SCD30 ok=1 CO2=506.0 ppm T=26.04 C RH=43.15 %
+  SPS30 ok=1 PM1=9.17 PM2.5=16.21 PM4=18.07 PM10=20.82
+  flame_adc=31 flame_digital=1
+  boost_input: V=0.796 I=0.1188 P=0.0955
+  charger_input: V=3.647 I=0.1063 P=0.3878
+  boost_duty=5.22% buck_duty=5.23% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=180119 co2_ppm=503.2 pm2p5_ug_m3=16.81 boost_v=0.830 charger_v=3.638
+Telemetry sample:
+  uptime_ms=180119
+  SCD30 ok=1 CO2=503.2 ppm T=26.15 C RH=43.28 %
+  SPS30 ok=1 PM1=9.38 PM2.5=16.81 PM4=18.65 PM10=21.14
+  flame_adc=28 flame_digital=1
+  boost_input: V=0.830 I=0.1230 P=0.1011
+  charger_input: V=3.638 I=0.0984 P=0.3579
+  boost_duty=4.76% buck_duty=5.21% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=190126 co2_ppm=493.3 pm2p5_ug_m3=15.90 boost_v=0.811 charger_v=3.637
+Telemetry sample:
+  uptime_ms=190126
+  SCD30 ok=1 CO2=493.3 ppm T=26.23 C RH=42.94 %
+  SPS30 ok=1 PM1=9.00 PM2.5=15.90 PM4=17.82 PM10=19.99
+  flame_adc=30 flame_digital=1
+  boost_input: V=0.811 I=0.1191 P=0.0969
+  charger_input: V=3.637 I=0.0944 P=0.3433
+  boost_duty=4.76% buck_duty=5.54% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=200133 co2_ppm=499.8 pm2p5_ug_m3=17.59 boost_v=0.852 charger_v=3.648
+Telemetry sample:
+  uptime_ms=200133
+  SCD30 ok=1 CO2=499.8 ppm T=26.21 C RH=42.75 %
+  SPS30 ok=1 PM1=9.85 PM2.5=17.59 PM4=19.72 PM10=22.58
+  flame_adc=30 flame_digital=1
+  boost_input: V=0.852 I=0.1166 P=0.0994
+  charger_input: V=3.648 I=0.0947 P=0.3454
+  boost_duty=5.92% buck_duty=5.52% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=210140 co2_ppm=493.8 pm2p5_ug_m3=17.80 boost_v=0.835 charger_v=3.666
+Telemetry sample:
+  uptime_ms=210140
+  SCD30 ok=1 CO2=493.8 ppm T=26.27 C RH=43.01 %
+  SPS30 ok=1 PM1=9.96 PM2.5=17.80 PM4=19.90 PM10=22.47
+  flame_adc=27 flame_digital=1
+  boost_input: V=0.835 I=0.1159 P=0.0969
+  charger_input: V=3.666 I=0.0902 P=0.3308
+  boost_duty=7.02% buck_duty=5.71% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=220147 co2_ppm=504.0 pm2p5_ug_m3=16.79 boost_v=0.845 charger_v=3.692
+Telemetry sample:
+  uptime_ms=220147
+  SCD30 ok=1 CO2=504.0 ppm T=26.33 C RH=42.91 %
+  SPS30 ok=1 PM1=9.22 PM2.5=16.79 PM4=19.10 PM10=21.71
+  flame_adc=27 flame_digital=1
+  boost_input: V=0.845 I=0.1200 P=0.1009
+  charger_input: V=3.692 I=0.0875 P=0.3232
+  boost_duty=5.36% buck_duty=5.28% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=230154 co2_ppm=502.8 pm2p5_ug_m3=18.20 boost_v=0.913 charger_v=3.688
+Telemetry sample:
+  uptime_ms=230154
+  SCD30 ok=1 CO2=502.8 ppm T=26.51 C RH=42.87 %
+  SPS30 ok=1 PM1=10.21 PM2.5=18.20 PM4=20.54 PM10=22.98
+  flame_adc=30 flame_digital=1
+  boost_input: V=0.913 I=0.1173 P=0.1080
+  charger_input: V=3.688 I=0.0894 P=0.3296
+  boost_duty=5.60% buck_duty=5.06% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=240161 co2_ppm=496.5 pm2p5_ug_m3=16.99 boost_v=0.915 charger_v=3.701
+Telemetry sample:
+  uptime_ms=240161
+  SCD30 ok=1 CO2=496.5 ppm T=26.53 C RH=42.35 %
+  SPS30 ok=1 PM1=9.56 PM2.5=16.99 PM4=18.99 PM10=22.11
+  flame_adc=28 flame_digital=1
+  boost_input: V=0.915 I=0.1143 P=0.1037
+  charger_input: V=3.701 I=0.0805 P=0.2980
+  boost_duty=6.33% buck_duty=5.73% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=250168 co2_ppm=496.4 pm2p5_ug_m3=17.09 boost_v=0.898 charger_v=3.709
+Telemetry sample:
+  uptime_ms=250168
+  SCD30 ok=1 CO2=496.4 ppm T=26.45 C RH=42.47 %
+  SPS30 ok=1 PM1=9.61 PM2.5=17.09 PM4=19.24 PM10=21.72
+  flame_adc=28 flame_digital=1
+  boost_input: V=0.898 I=0.1142 P=0.1017
+  charger_input: V=3.709 I=0.0781 P=0.2897
+  boost_duty=8.40% buck_duty=5.80% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=260175 co2_ppm=489.6 pm2p5_ug_m3=18.33 boost_v=0.917 charger_v=3.691
+Telemetry sample:
+  uptime_ms=260175
+  SCD30 ok=1 CO2=489.6 ppm T=26.68 C RH=42.73 %
+  SPS30 ok=1 PM1=10.17 PM2.5=18.33 PM4=20.54 PM10=23.73
+  flame_adc=26 flame_digital=1
+  boost_input: V=0.917 I=0.1100 P=0.1005
+  charger_input: V=3.691 I=0.0756 P=0.2789
+  boost_duty=7.02% buck_duty=5.37% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=270182 co2_ppm=484.1 pm2p5_ug_m3=18.43 boost_v=0.974 charger_v=3.709
+Telemetry sample:
+  uptime_ms=270182
+  SCD30 ok=1 CO2=484.1 ppm T=26.78 C RH=42.18 %
+  SPS30 ok=1 PM1=10.29 PM2.5=18.43 PM4=20.92 PM10=23.75
+  flame_adc=25 flame_digital=1
+  boost_input: V=0.974 I=0.1124 P=0.1097
+  charger_input: V=3.709 I=0.0760 P=0.2819
+  boost_duty=9.15% buck_duty=5.19% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=280189 co2_ppm=485.9 pm2p5_ug_m3=18.46 boost_v=0.951 charger_v=3.718
+Telemetry sample:
+  uptime_ms=280189
+  SCD30 ok=1 CO2=485.9 ppm T=26.66 C RH=42.28 %
+  SPS30 ok=1 PM1=10.38 PM2.5=18.46 PM4=20.54 PM10=23.47
+  flame_adc=24 flame_digital=1
+  boost_input: V=0.951 I=0.1095 P=0.1036
+  charger_input: V=3.718 I=0.0718 P=0.2670
+  boost_duty=7.78% buck_duty=5.51% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=290196 co2_ppm=479.5 pm2p5_ug_m3=18.05 boost_v=1.010 charger_v=3.708
+Telemetry sample:
+  uptime_ms=290196
+  SCD30 ok=1 CO2=479.5 ppm T=26.73 C RH=42.09 %
+  SPS30 ok=1 PM1=9.89 PM2.5=18.05 PM4=20.27 PM10=23.14
+  flame_adc=25 flame_digital=1
+  boost_input: V=1.010 I=0.1101 P=0.1105
+  charger_input: V=3.708 I=0.0663 P=0.2457
+  boost_duty=7.37% buck_duty=5.63% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=300203 co2_ppm=479.3 pm2p5_ug_m3=19.37 boost_v=1.010 charger_v=3.737
+Telemetry sample:
+  uptime_ms=300203
+  SCD30 ok=1 CO2=479.3 ppm T=26.69 C RH=42.15 %
+  SPS30 ok=1 PM1=10.66 PM2.5=19.37 PM4=21.59 PM10=24.61
+  flame_adc=24 flame_digital=1
+  boost_input: V=1.010 I=0.1099 P=0.1112
+  charger_input: V=3.737 I=0.0673 P=0.2515
+  boost_duty=9.52% buck_duty=5.53% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=310210 co2_ppm=481.2 pm2p5_ug_m3=19.50 boost_v=1.030 charger_v=3.750
+Telemetry sample:
+  uptime_ms=310210
+  SCD30 ok=1 CO2=481.2 ppm T=26.78 C RH=41.96 %
+  SPS30 ok=1 PM1=10.63 PM2.5=19.50 PM4=22.00 PM10=24.90
+  flame_adc=25 flame_digital=1
+  boost_input: V=1.030 I=0.1022 P=0.1057
+  charger_input: V=3.750 I=0.0616 P=0.2312
+  boost_duty=9.36% buck_duty=5.15% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=320217 co2_ppm=488.4 pm2p5_ug_m3=18.59 boost_v=1.068 charger_v=3.764
+Telemetry sample:
+  uptime_ms=320217
+  SCD30 ok=1 CO2=488.4 ppm T=26.89 C RH=41.61 %
+  SPS30 ok=1 PM1=10.14 PM2.5=18.59 PM4=20.80 PM10=24.05
+  flame_adc=23 flame_digital=1
+  boost_input: V=1.068 I=0.1029 P=0.1102
+  charger_input: V=3.764 I=0.0637 P=0.2398
+  boost_duty=8.68% buck_duty=5.56% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=330224 co2_ppm=479.5 pm2p5_ug_m3=17.98 boost_v=1.075 charger_v=3.735
+Telemetry sample:
+  uptime_ms=330224
+  SCD30 ok=1 CO2=479.5 ppm T=27.03 C RH=41.15 %
+  SPS30 ok=1 PM1=9.98 PM2.5=17.98 PM4=20.07 PM10=23.19
+  flame_adc=21 flame_digital=1
+  boost_input: V=1.075 I=0.0984 P=0.1068
+  charger_input: V=3.735 I=0.0597 P=0.2228
+  boost_duty=8.49% buck_duty=5.36% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=340231 co2_ppm=489.0 pm2p5_ug_m3=18.87 boost_v=1.105 charger_v=3.758
+Telemetry sample:
+  uptime_ms=340231
+  SCD30 ok=1 CO2=489.0 ppm T=26.94 C RH=41.49 %
+  SPS30 ok=1 PM1=10.33 PM2.5=18.87 PM4=20.99 PM10=23.94
+  flame_adc=21 flame_digital=1
+  boost_input: V=1.105 I=0.0972 P=0.1079
+  charger_input: V=3.758 I=0.0544 P=0.2045
+  boost_duty=9.27% buck_duty=5.49% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=350238 co2_ppm=481.1 pm2p5_ug_m3=18.01 boost_v=1.080 charger_v=3.750
+Telemetry sample:
+  uptime_ms=350238
+  SCD30 ok=1 CO2=481.1 ppm T=27.12 C RH=41.54 %
+  SPS30 ok=1 PM1=10.12 PM2.5=18.01 PM4=20.44 PM10=23.36
+  flame_adc=21 flame_digital=1
+  boost_input: V=1.080 I=0.0968 P=0.1054
+  charger_input: V=3.750 I=0.0582 P=0.2182
+  boost_duty=11.06% buck_duty=5.35% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=360245 co2_ppm=478.8 pm2p5_ug_m3=18.95 boost_v=1.102 charger_v=3.753
+Telemetry sample:
+  uptime_ms=360245
+  SCD30 ok=1 CO2=478.8 ppm T=27.04 C RH=41.25 %
+  SPS30 ok=1 PM1=10.62 PM2.5=18.95 PM4=21.01 PM10=24.34
+  flame_adc=20 flame_digital=1
+  boost_input: V=1.102 I=0.0857 P=0.0941
+  charger_input: V=3.753 I=0.0518 P=0.1943
+  boost_duty=9.61% buck_duty=5.03% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=370252 co2_ppm=481.1 pm2p5_ug_m3=18.20 boost_v=1.158 charger_v=3.778
+Telemetry sample:
+  uptime_ms=370252
+  SCD30 ok=1 CO2=481.1 ppm T=27.12 C RH=41.16 %
+  SPS30 ok=1 PM1=10.27 PM2.5=18.20 PM4=20.53 PM10=23.54
+  flame_adc=20 flame_digital=1
+  boost_input: V=1.158 I=0.0868 P=0.1013
+  charger_input: V=3.778 I=0.0544 P=0.2055
+  boost_duty=11.10% buck_duty=5.09% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=380259 co2_ppm=481.6 pm2p5_ug_m3=18.95 boost_v=1.148 charger_v=3.764
+Telemetry sample:
+  uptime_ms=380259
+  SCD30 ok=1 CO2=481.6 ppm T=27.25 C RH=40.90 %
+  SPS30 ok=1 PM1=10.62 PM2.5=18.95 PM4=21.46 PM10=23.91
+  flame_adc=20 flame_digital=1
+  boost_input: V=1.148 I=0.0824 P=0.0945
+  charger_input: V=3.764 I=0.0507 P=0.1907
+  boost_duty=10.40% buck_duty=5.05% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=390266 co2_ppm=495.0 pm2p5_ug_m3=19.40 boost_v=1.148 charger_v=3.801
+Telemetry sample:
+  uptime_ms=390266
+  SCD30 ok=1 CO2=495.0 ppm T=27.26 C RH=40.30 %
+  SPS30 ok=1 PM1=10.66 PM2.5=19.40 PM4=21.59 PM10=25.06
+  flame_adc=17 flame_digital=1
+  boost_input: V=1.148 I=0.0823 P=0.0951
+  charger_input: V=3.801 I=0.0483 P=0.1836
+  boost_duty=11.13% buck_duty=4.64% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=400273 co2_ppm=491.4 pm2p5_ug_m3=20.09 boost_v=1.163 charger_v=3.806
+Telemetry sample:
+  uptime_ms=400273
+  SCD30 ok=1 CO2=491.4 ppm T=27.24 C RH=40.32 %
+  SPS30 ok=1 PM1=11.13 PM2.5=20.09 PM4=22.41 PM10=25.75
+  flame_adc=18 flame_digital=1
+  boost_input: V=1.163 I=0.0778 P=0.0905
+  charger_input: V=3.806 I=0.0496 P=0.1889
+  boost_duty=9.69% buck_duty=4.70% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=410280 co2_ppm=492.7 pm2p5_ug_m3=20.45 boost_v=1.192 charger_v=3.795
+Telemetry sample:
+  uptime_ms=410280
+  SCD30 ok=1 CO2=492.7 ppm T=27.09 C RH=39.80 %
+  SPS30 ok=1 PM1=11.22 PM2.5=20.45 PM4=22.76 PM10=25.99
+  flame_adc=17 flame_digital=1
+  boost_input: V=1.192 I=0.0745 P=0.0882
+  charger_input: V=3.795 I=0.0490 P=0.1861
+  boost_duty=11.81% buck_duty=4.41% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=420287 co2_ppm=494.1 pm2p5_ug_m3=18.82 boost_v=1.232 charger_v=3.813
+Telemetry sample:
+  uptime_ms=420287
+  SCD30 ok=1 CO2=494.1 ppm T=27.37 C RH=39.39 %
+  SPS30 ok=1 PM1=10.46 PM2.5=18.82 PM4=20.80 PM10=24.19
+  flame_adc=19 flame_digital=1
+  boost_input: V=1.232 I=0.0693 P=0.0858
+  charger_input: V=3.813 I=0.0462 P=0.1763
+  boost_duty=11.35% buck_duty=4.19% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=430294 co2_ppm=505.0 pm2p5_ug_m3=18.30 boost_v=1.220 charger_v=3.786
+Telemetry sample:
+  uptime_ms=430294
+  SCD30 ok=1 CO2=505.0 ppm T=27.12 C RH=39.38 %
+  SPS30 ok=1 PM1=10.38 PM2.5=18.30 PM4=20.35 PM10=23.75
+  flame_adc=20 flame_digital=1
+  boost_input: V=1.220 I=0.0655 P=0.0798
+  charger_input: V=3.786 I=0.0429 P=0.1626
+  boost_duty=12.21% buck_duty=4.00% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=440301 co2_ppm=506.0 pm2p5_ug_m3=18.89 boost_v=1.282 charger_v=3.805
+Telemetry sample:
+  uptime_ms=440301
+  SCD30 ok=1 CO2=506.0 ppm T=27.26 C RH=39.14 %
+  SPS30 ok=1 PM1=10.53 PM2.5=18.89 PM4=21.04 PM10=23.96
+  flame_adc=18 flame_digital=1
+  boost_input: V=1.282 I=0.0613 P=0.0795
+  charger_input: V=3.805 I=0.0393 P=0.1496
+  boost_duty=11.35% buck_duty=4.25% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=450308 co2_ppm=505.5 pm2p5_ug_m3=18.68 boost_v=1.298 charger_v=3.821
+Telemetry sample:
+  uptime_ms=450308
+  SCD30 ok=1 CO2=505.5 ppm T=27.40 C RH=39.13 %
+  SPS30 ok=1 PM1=10.37 PM2.5=18.68 PM4=20.82 PM10=24.23
+  flame_adc=20 flame_digital=1
+  boost_input: V=1.298 I=0.0554 P=0.0713
+  charger_input: V=3.821 I=0.0394 P=0.1506
+  boost_duty=10.59% buck_duty=3.99% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=460315 co2_ppm=499.9 pm2p5_ug_m3=19.58 boost_v=1.315 charger_v=3.801
+Telemetry sample:
+  uptime_ms=460315
+  SCD30 ok=1 CO2=499.9 ppm T=27.31 C RH=39.19 %
+  SPS30 ok=1 PM1=11.07 PM2.5=19.58 PM4=22.13 PM10=24.99
+  flame_adc=17 flame_digital=1
+  boost_input: V=1.315 I=0.0557 P=0.0741
+  charger_input: V=3.801 I=0.0405 P=0.1539
+  boost_duty=11.45% buck_duty=3.63% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=470322 co2_ppm=507.5 pm2p5_ug_m3=19.30 boost_v=1.290 charger_v=3.802
+Telemetry sample:
+  uptime_ms=470322
+  SCD30 ok=1 CO2=507.5 ppm T=27.41 C RH=38.81 %
+  SPS30 ok=1 PM1=10.74 PM2.5=19.30 PM4=21.70 PM10=24.77
+  flame_adc=17 flame_digital=1
+  boost_input: V=1.290 I=0.0511 P=0.0659
+  charger_input: V=3.802 I=0.0411 P=0.1561
+  boost_duty=12.15% buck_duty=3.72% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=480329 co2_ppm=500.6 pm2p5_ug_m3=19.26 boost_v=1.320 charger_v=3.829
+Telemetry sample:
+  uptime_ms=480329
+  SCD30 ok=1 CO2=500.6 ppm T=27.30 C RH=38.67 %
+  SPS30 ok=1 PM1=10.52 PM2.5=19.26 PM4=21.45 PM10=24.39
+  flame_adc=20 flame_digital=1
+  boost_input: V=1.320 I=0.0531 P=0.0695
+  charger_input: V=3.829 I=0.0442 P=0.1694
+  boost_duty=12.27% buck_duty=3.72% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=490336 co2_ppm=506.3 pm2p5_ug_m3=19.77 boost_v=1.328 charger_v=3.811
+Telemetry sample:
+  uptime_ms=490336
+  SCD30 ok=1 CO2=506.3 ppm T=27.16 C RH=38.29 %
+  SPS30 ok=1 PM1=11.12 PM2.5=19.77 PM4=22.16 PM10=25.00
+  flame_adc=20 flame_digital=1
+  boost_input: V=1.328 I=0.0499 P=0.0666
+  charger_input: V=3.811 I=0.0364 P=0.1386
+  boost_duty=11.78% buck_duty=3.73% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=500343 co2_ppm=509.2 pm2p5_ug_m3=18.91 boost_v=1.371 charger_v=3.819
+Telemetry sample:
+  uptime_ms=500343
+  SCD30 ok=1 CO2=509.2 ppm T=27.27 C RH=37.87 %
+  SPS30 ok=1 PM1=10.73 PM2.5=18.91 PM4=20.97 PM10=23.89
+  flame_adc=19 flame_digital=1
+  boost_input: V=1.371 I=0.0427 P=0.0581
+  charger_input: V=3.819 I=0.0433 P=0.1652
+  boost_duty=14.02% buck_duty=3.50% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=510350 co2_ppm=505.4 pm2p5_ug_m3=18.88 boost_v=1.370 charger_v=3.844
+Telemetry sample:
+  uptime_ms=510350
+  SCD30 ok=1 CO2=505.4 ppm T=27.24 C RH=37.23 %
+  SPS30 ok=1 PM1=10.66 PM2.5=18.88 PM4=21.06 PM10=24.15
+  flame_adc=20 flame_digital=1
+  boost_input: V=1.370 I=0.0502 P=0.0678
+  charger_input: V=3.844 I=0.0424 P=0.1631
+  boost_duty=11.99% buck_duty=3.23% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=520357 co2_ppm=506.7 pm2p5_ug_m3=18.73 boost_v=1.387 charger_v=3.826
+Telemetry sample:
+  uptime_ms=520357
+  SCD30 ok=1 CO2=506.7 ppm T=27.16 C RH=37.26 %
+  SPS30 ok=1 PM1=10.49 PM2.5=18.73 PM4=21.03 PM10=24.26
+  flame_adc=22 flame_digital=1
+  boost_input: V=1.387 I=0.0428 P=0.0586
+  charger_input: V=3.826 I=0.0406 P=0.1555
+  boost_duty=14.14% buck_duty=2.68% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=530364 co2_ppm=505.5 pm2p5_ug_m3=20.38 boost_v=1.427 charger_v=3.819
+Telemetry sample:
+  uptime_ms=530364
+  SCD30 ok=1 CO2=505.5 ppm T=27.12 C RH=37.31 %
+  SPS30 ok=1 PM1=11.43 PM2.5=20.38 PM4=22.65 PM10=26.13
+  flame_adc=20 flame_digital=1
+  boost_input: V=1.427 I=0.0459 P=0.0647
+  charger_input: V=3.819 I=0.0426 P=0.1626
+  boost_duty=13.60% buck_duty=2.57% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=540371 co2_ppm=497.6 pm2p5_ug_m3=20.28 boost_v=1.454 charger_v=3.839
+Telemetry sample:
+  uptime_ms=540371
+  SCD30 ok=1 CO2=497.6 ppm T=27.16 C RH=37.09 %
+  SPS30 ok=1 PM1=11.45 PM2.5=20.28 PM4=22.44 PM10=26.17
+  flame_adc=20 flame_digital=1
+  boost_input: V=1.454 I=0.0437 P=0.0627
+  charger_input: V=3.839 I=0.0446 P=0.1711
+  boost_duty=13.20% buck_duty=2.75% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=550378 co2_ppm=499.3 pm2p5_ug_m3=19.37 boost_v=1.438 charger_v=3.861
+Telemetry sample:
+  uptime_ms=550378
+  SCD30 ok=1 CO2=499.3 ppm T=27.23 C RH=36.60 %
+  SPS30 ok=1 PM1=10.97 PM2.5=19.37 PM4=21.69 PM10=24.82
+  flame_adc=20 flame_digital=1
+  boost_input: V=1.438 I=0.0391 P=0.0568
+  charger_input: V=3.861 I=0.0455 P=0.1757
+  boost_duty=14.54% buck_duty=2.79% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=560385 co2_ppm=504.5 pm2p5_ug_m3=20.07 boost_v=1.492 charger_v=3.859
+Telemetry sample:
+  uptime_ms=560385
+  SCD30 ok=1 CO2=504.5 ppm T=27.31 C RH=36.43 %
+  SPS30 ok=1 PM1=11.17 PM2.5=20.07 PM4=22.74 PM10=25.68
+  flame_adc=24 flame_digital=1
+  boost_input: V=1.492 I=0.0444 P=0.0665
+  charger_input: V=3.859 I=0.0457 P=0.1763
+  boost_duty=12.84% buck_duty=2.13% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=570392 co2_ppm=494.1 pm2p5_ug_m3=18.74 boost_v=1.490 charger_v=3.828
+Telemetry sample:
+  uptime_ms=570392
+  SCD30 ok=1 CO2=494.1 ppm T=27.12 C RH=36.11 %
+  SPS30 ok=1 PM1=10.50 PM2.5=18.74 PM4=20.92 PM10=24.30
+  flame_adc=25 flame_digital=1
+  boost_input: V=1.490 I=0.0375 P=0.0561
+  charger_input: V=3.828 I=0.0433 P=0.1658
+  boost_duty=13.49% buck_duty=2.27% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=580399 co2_ppm=483.6 pm2p5_ug_m3=19.77 boost_v=1.523 charger_v=3.852
+Telemetry sample:
+  uptime_ms=580399
+  SCD30 ok=1 CO2=483.6 ppm T=27.14 C RH=35.38 %
+  SPS30 ok=1 PM1=10.99 PM2.5=19.77 PM4=22.03 PM10=25.60
+  flame_adc=25 flame_digital=1
+  boost_input: V=1.523 I=0.0393 P=0.0603
+  charger_input: V=3.852 I=0.0430 P=0.1658
+  boost_duty=13.86% buck_duty=2.09% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=590406 co2_ppm=491.3 pm2p5_ug_m3=20.58 boost_v=1.539 charger_v=3.864
+Telemetry sample:
+  uptime_ms=590406
+  SCD30 ok=1 CO2=491.3 ppm T=27.09 C RH=35.09 %
+  SPS30 ok=1 PM1=11.30 PM2.5=20.58 PM4=22.87 PM10=26.50
+  flame_adc=26 flame_digital=1
+  boost_input: V=1.539 I=0.0383 P=0.0596
+  charger_input: V=3.864 I=0.0446 P=0.1722
+  boost_duty=14.58% buck_duty=1.90% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=600413 co2_ppm=473.3 pm2p5_ug_m3=19.70 boost_v=1.523 charger_v=3.846
+Telemetry sample:
+  uptime_ms=600413
+  SCD30 ok=1 CO2=473.3 ppm T=27.21 C RH=35.50 %
+  SPS30 ok=1 PM1=11.02 PM2.5=19.70 PM4=22.07 PM10=25.49
+  flame_adc=25 flame_digital=1
+  boost_input: V=1.523 I=0.0379 P=0.0584
+  charger_input: V=3.846 I=0.0452 P=0.1738
+  boost_duty=14.71% buck_duty=1.64% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=610420 co2_ppm=471.6 pm2p5_ug_m3=19.76 boost_v=1.541 charger_v=3.843
+Telemetry sample:
+  uptime_ms=610420
+  SCD30 ok=1 CO2=471.6 ppm T=27.03 C RH=35.20 %
+  SPS30 ok=1 PM1=11.05 PM2.5=19.76 PM4=22.06 PM10=25.62
+  flame_adc=25 flame_digital=1
+  boost_input: V=1.541 I=0.0378 P=0.0579
+  charger_input: V=3.843 I=0.0479 P=0.1839
+  boost_duty=14.63% buck_duty=1.51% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=620427 co2_ppm=465.0 pm2p5_ug_m3=20.65 boost_v=1.589 charger_v=3.852
+Telemetry sample:
+  uptime_ms=620427
+  SCD30 ok=1 CO2=465.0 ppm T=26.91 C RH=34.67 %
+  SPS30 ok=1 PM1=11.26 PM2.5=20.65 PM4=22.88 PM10=26.19
+  flame_adc=27 flame_digital=1
+  boost_input: V=1.589 I=0.0419 P=0.0672
+  charger_input: V=3.852 I=0.0541 P=0.2085
+  boost_duty=16.06% buck_duty=1.49% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=630434 co2_ppm=464.0 pm2p5_ug_m3=20.63 boost_v=1.595 charger_v=3.842
+Telemetry sample:
+  uptime_ms=630434
+  SCD30 ok=1 CO2=464.0 ppm T=26.87 C RH=33.96 %
+  SPS30 ok=1 PM1=11.28 PM2.5=20.63 PM4=22.91 PM10=26.22
+  flame_adc=26 flame_digital=1
+  boost_input: V=1.595 I=0.0423 P=0.0665
+  charger_input: V=3.842 I=0.0557 P=0.2140
+  boost_duty=16.61% buck_duty=1.51% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=640441 co2_ppm=456.6 pm2p5_ug_m3=19.68 boost_v=1.603 charger_v=3.868
+Telemetry sample:
+  uptime_ms=640441
+  SCD30 ok=1 CO2=456.6 ppm T=26.90 C RH=34.31 %
+  SPS30 ok=1 PM1=10.86 PM2.5=19.68 PM4=22.23 PM10=25.19
+  flame_adc=27 flame_digital=1
+  boost_input: V=1.603 I=0.0484 P=0.0776
+  charger_input: V=3.868 I=0.0537 P=0.2077
+  boost_duty=17.10% buck_duty=1.51% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=650448 co2_ppm=446.7 pm2p5_ug_m3=19.43 boost_v=1.632 charger_v=3.849
+Telemetry sample:
+  uptime_ms=650448
+  SCD30 ok=1 CO2=446.7 ppm T=26.75 C RH=33.75 %
+  SPS30 ok=1 PM1=10.90 PM2.5=19.43 PM4=21.76 PM10=24.65
+  flame_adc=30 flame_digital=1
+  boost_input: V=1.632 I=0.0480 P=0.0774
+  charger_input: V=3.849 I=0.0559 P=0.2153
+  boost_duty=14.83% buck_duty=1.26% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=660455 co2_ppm=442.5 pm2p5_ug_m3=20.81 boost_v=1.635 charger_v=3.862
+Telemetry sample:
+  uptime_ms=660455
+  SCD30 ok=1 CO2=442.5 ppm T=26.90 C RH=33.60 %
+  SPS30 ok=1 PM1=11.36 PM2.5=20.81 PM4=23.37 PM10=26.56
+  flame_adc=29 flame_digital=1
+  boost_input: V=1.635 I=0.0496 P=0.0815
+  charger_input: V=3.862 I=0.0583 P=0.2252
+  boost_duty=15.18% buck_duty=1.08% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=670462 co2_ppm=426.4 pm2p5_ug_m3=18.56 boost_v=1.655 charger_v=3.837
+Telemetry sample:
+  uptime_ms=670462
+  SCD30 ok=1 CO2=426.4 ppm T=26.90 C RH=32.95 %
+  SPS30 ok=1 PM1=10.50 PM2.5=18.56 PM4=20.96 PM10=23.75
+  flame_adc=30 flame_digital=1
+  boost_input: V=1.655 I=0.0550 P=0.0919
+  charger_input: V=3.837 I=0.0576 P=0.2210
+  boost_duty=16.43% buck_duty=1.25% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=680469 co2_ppm=423.8 pm2p5_ug_m3=20.32 boost_v=1.691 charger_v=3.850
+Telemetry sample:
+  uptime_ms=680469
+  SCD30 ok=1 CO2=423.8 ppm T=26.73 C RH=33.25 %
+  SPS30 ok=1 PM1=11.30 PM2.5=20.32 PM4=22.56 PM10=26.09
+  flame_adc=28 flame_digital=1
+  boost_input: V=1.691 I=0.0528 P=0.0890
+  charger_input: V=3.850 I=0.0649 P=0.2498
+  boost_duty=16.20% buck_duty=0.60% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=690476 co2_ppm=425.1 pm2p5_ug_m3=20.39 boost_v=1.686 charger_v=3.867
+Telemetry sample:
+  uptime_ms=690476
+  SCD30 ok=1 CO2=425.1 ppm T=26.74 C RH=32.47 %
+  SPS30 ok=1 PM1=11.27 PM2.5=20.39 PM4=22.87 PM10=26.27
+  flame_adc=32 flame_digital=1
+  boost_input: V=1.686 I=0.0610 P=0.1029
+  charger_input: V=3.867 I=0.0689 P=0.2666
+  boost_duty=18.21% buck_duty=0.88% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=700483 co2_ppm=417.0 pm2p5_ug_m3=18.49 boost_v=1.727 charger_v=3.840
+Telemetry sample:
+  uptime_ms=700483
+  SCD30 ok=1 CO2=417.0 ppm T=26.70 C RH=32.68 %
+  SPS30 ok=1 PM1=10.46 PM2.5=18.49 PM4=20.74 PM10=23.54
+  flame_adc=30 flame_digital=1
+  boost_input: V=1.727 I=0.0622 P=0.1069
+  charger_input: V=3.840 I=0.0662 P=0.2541
+  boost_duty=16.04% buck_duty=1.03% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=710490 co2_ppm=408.4 pm2p5_ug_m3=20.04 boost_v=1.721 charger_v=3.829
+Telemetry sample:
+  uptime_ms=710490
+  SCD30 ok=1 CO2=408.4 ppm T=26.41 C RH=32.53 %
+  SPS30 ok=1 PM1=11.20 PM2.5=20.04 PM4=22.55 PM10=26.00
+  flame_adc=31 flame_digital=1
+  boost_input: V=1.721 I=0.0656 P=0.1121
+  charger_input: V=3.829 I=0.0738 P=0.2827
+  boost_duty=16.17% buck_duty=0.59% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=720497 co2_ppm=392.3 pm2p5_ug_m3=19.43 boost_v=1.745 charger_v=3.845
+Telemetry sample:
+  uptime_ms=720497
+  SCD30 ok=1 CO2=392.3 ppm T=26.43 C RH=32.36 %
+  SPS30 ok=1 PM1=10.60 PM2.5=19.43 PM4=22.04 PM10=25.18
+  flame_adc=32 flame_digital=1
+  boost_input: V=1.745 I=0.0640 P=0.1123
+  charger_input: V=3.845 I=0.0740 P=0.2844
+  boost_duty=17.33% buck_duty=0.26% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=730504 co2_ppm=393.1 pm2p5_ug_m3=20.06 boost_v=1.761 charger_v=3.844
+Telemetry sample:
+  uptime_ms=730504
+  SCD30 ok=1 CO2=393.1 ppm T=26.39 C RH=31.52 %
+  SPS30 ok=1 PM1=10.94 PM2.5=20.06 PM4=22.76 PM10=25.35
+  flame_adc=28 flame_digital=1
+  boost_input: V=1.761 I=0.0713 P=0.1247
+  charger_input: V=3.844 I=0.0726 P=0.2792
+  boost_duty=18.10% buck_duty=0.19% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=740511 co2_ppm=390.1 pm2p5_ug_m3=19.01 boost_v=1.817 charger_v=3.826
+Telemetry sample:
+  uptime_ms=740511
+  SCD30 ok=1 CO2=390.1 ppm T=26.44 C RH=31.62 %
+  SPS30 ok=1 PM1=10.77 PM2.5=19.01 PM4=21.22 PM10=24.16
+  flame_adc=29 flame_digital=1
+  boost_input: V=1.817 I=0.0745 P=0.1352
+  charger_input: V=3.826 I=0.0784 P=0.2998
+  boost_duty=19.40% buck_duty=0.69% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=750518 co2_ppm=375.7 pm2p5_ug_m3=19.19 boost_v=1.823 charger_v=3.851
+Telemetry sample:
+  uptime_ms=750518
+  SCD30 ok=1 CO2=375.7 ppm T=26.37 C RH=31.40 %
+  SPS30 ok=1 PM1=10.86 PM2.5=19.19 PM4=21.61 PM10=24.96
+  flame_adc=31 flame_digital=1
+  boost_input: V=1.823 I=0.0706 P=0.1286
+  charger_input: V=3.851 I=0.0779 P=0.3000
+  boost_duty=18.25% buck_duty=0.83% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=760525 co2_ppm=367.1 pm2p5_ug_m3=19.49 boost_v=1.841 charger_v=3.824
+Telemetry sample:
+  uptime_ms=760525
+  SCD30 ok=1 CO2=367.1 ppm T=26.10 C RH=31.36 %
+  SPS30 ok=1 PM1=10.91 PM2.5=19.49 PM4=22.01 PM10=24.97
+  flame_adc=31 flame_digital=1
+  boost_input: V=1.841 I=0.0753 P=0.1385
+  charger_input: V=3.824 I=0.0808 P=0.3089
+  boost_duty=19.19% buck_duty=0.58% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=770532 co2_ppm=375.4 pm2p5_ug_m3=19.67 boost_v=1.874 charger_v=3.824
+Telemetry sample:
+  uptime_ms=770532
+  SCD30 ok=1 CO2=375.4 ppm T=25.97 C RH=30.69 %
+  SPS30 ok=1 PM1=10.94 PM2.5=19.67 PM4=21.82 PM10=24.79
+  flame_adc=29 flame_digital=1
+  boost_input: V=1.874 I=0.0802 P=0.1504
+  charger_input: V=3.824 I=0.0866 P=0.3311
+  boost_duty=18.58% buck_duty=0.13% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=780539 co2_ppm=362.6 pm2p5_ug_m3=18.91 boost_v=1.864 charger_v=3.815
+Telemetry sample:
+  uptime_ms=780539
+  SCD30 ok=1 CO2=362.6 ppm T=26.03 C RH=30.69 %
+  SPS30 ok=1 PM1=10.53 PM2.5=18.91 PM4=21.39 PM10=23.94
+  flame_adc=28 flame_digital=1
+  boost_input: V=1.864 I=0.0879 P=0.1647
+  charger_input: V=3.815 I=0.0915 P=0.3489
+  boost_duty=19.08% buck_duty=0.26% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=790546 co2_ppm=354.9 pm2p5_ug_m3=18.86 boost_v=1.858 charger_v=3.821
+Telemetry sample:
+  uptime_ms=790546
+  SCD30 ok=1 CO2=354.9 ppm T=25.84 C RH=30.71 %
+  SPS30 ok=1 PM1=10.35 PM2.5=18.86 PM4=21.01 PM10=24.22
+  flame_adc=28 flame_digital=1
+  boost_input: V=1.858 I=0.0891 P=0.1663
+  charger_input: V=3.821 I=0.0927 P=0.3543
+  boost_duty=18.86% buck_duty=0.39% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=800553 co2_ppm=356.1 pm2p5_ug_m3=18.01 boost_v=1.879 charger_v=3.807
+Telemetry sample:
+  uptime_ms=800553
+  SCD30 ok=1 CO2=356.1 ppm T=25.87 C RH=30.52 %
+  SPS30 ok=1 PM1=10.11 PM2.5=18.01 PM4=20.15 PM10=23.36
+  flame_adc=27 flame_digital=1
+  boost_input: V=1.879 I=0.0937 P=0.1766
+  charger_input: V=3.807 I=0.0916 P=0.3487
+  boost_duty=18.56% buck_duty=0.47% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=810560 co2_ppm=350.7 pm2p5_ug_m3=17.91 boost_v=1.932 charger_v=3.820
+Telemetry sample:
+  uptime_ms=810560
+  SCD30 ok=1 CO2=350.7 ppm T=25.74 C RH=30.26 %
+  SPS30 ok=1 PM1=10.06 PM2.5=17.91 PM4=20.32 PM10=22.61
+  flame_adc=27 flame_digital=1
+  boost_input: V=1.932 I=0.0972 P=0.1878
+  charger_input: V=3.820 I=0.0947 P=0.3616
+  boost_duty=20.33% buck_duty=0.66% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=820567 co2_ppm=352.5 pm2p5_ug_m3=18.61 boost_v=1.926 charger_v=3.808
+Telemetry sample:
+  uptime_ms=820567
+  SCD30 ok=1 CO2=352.5 ppm T=25.81 C RH=29.96 %
+  SPS30 ok=1 PM1=10.51 PM2.5=18.61 PM4=20.80 PM10=23.82
+  flame_adc=27 flame_digital=1
+  boost_input: V=1.926 I=0.0997 P=0.1915
+  charger_input: V=3.808 I=0.0991 P=0.3773
+  boost_duty=19.42% buck_duty=0.74% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=830574 co2_ppm=352.7 pm2p5_ug_m3=17.34 boost_v=1.944 charger_v=3.802
+Telemetry sample:
+  uptime_ms=830574
+  SCD30 ok=1 CO2=352.7 ppm T=25.58 C RH=30.08 %
+  SPS30 ok=1 PM1=9.70 PM2.5=17.34 PM4=19.54 PM10=22.16
+  flame_adc=24 flame_digital=1
+  boost_input: V=1.944 I=0.1051 P=0.2048
+  charger_input: V=3.802 I=0.1020 P=0.3877
+  boost_duty=20.97% buck_duty=0.34% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=840581 co2_ppm=351.8 pm2p5_ug_m3=18.20 boost_v=1.959 charger_v=3.821
+Telemetry sample:
+  uptime_ms=840581
+  SCD30 ok=1 CO2=351.8 ppm T=25.43 C RH=30.26 %
+  SPS30 ok=1 PM1=10.03 PM2.5=18.20 PM4=20.31 PM10=23.57
+  flame_adc=26 flame_digital=1
+  boost_input: V=1.959 I=0.1009 P=0.1983
+  charger_input: V=3.821 I=0.1043 P=0.3984
+  boost_duty=20.90% buck_duty=1.00% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=850588 co2_ppm=356.8 pm2p5_ug_m3=18.04 boost_v=1.997 charger_v=3.800
+Telemetry sample:
+  uptime_ms=850588
+  SCD30 ok=1 CO2=356.8 ppm T=25.53 C RH=29.44 %
+  SPS30 ok=1 PM1=10.23 PM2.5=18.04 PM4=20.19 PM10=23.09
+  flame_adc=25 flame_digital=1
+  boost_input: V=1.997 I=0.1057 P=0.2117
+  charger_input: V=3.800 I=0.1082 P=0.4112
+  boost_duty=20.66% buck_duty=0.76% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=860595 co2_ppm=348.6 pm2p5_ug_m3=17.21 boost_v=2.021 charger_v=3.810
+Telemetry sample:
+  uptime_ms=860595
+  SCD30 ok=1 CO2=348.6 ppm T=25.33 C RH=30.01 %
+  SPS30 ok=1 PM1=9.75 PM2.5=17.21 PM4=19.31 PM10=21.95
+  flame_adc=23 flame_digital=1
+  boost_input: V=2.021 I=0.1092 P=0.2199
+  charger_input: V=3.810 I=0.1113 P=0.4239
+  boost_duty=22.12% buck_duty=0.83% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=870602 co2_ppm=345.3 pm2p5_ug_m3=17.76 boost_v=1.995 charger_v=3.807
+Telemetry sample:
+  uptime_ms=870602
+  SCD30 ok=1 CO2=345.3 ppm T=25.17 C RH=29.65 %
+  SPS30 ok=1 PM1=9.74 PM2.5=17.76 PM4=20.08 PM10=22.72
+  flame_adc=22 flame_digital=1
+  boost_input: V=1.995 I=0.1146 P=0.2289
+  charger_input: V=3.807 I=0.1138 P=0.4333
+  boost_duty=20.79% buck_duty=1.30% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=880609 co2_ppm=349.6 pm2p5_ug_m3=17.93 boost_v=2.067 charger_v=3.772
+Telemetry sample:
+  uptime_ms=880609
+  SCD30 ok=1 CO2=349.6 ppm T=25.22 C RH=29.80 %
+  SPS30 ok=1 PM1=9.83 PM2.5=17.93 PM4=20.18 PM10=23.11
+  flame_adc=23 flame_digital=1
+  boost_input: V=2.067 I=0.1132 P=0.2342
+  charger_input: V=3.772 I=0.1196 P=0.4512
+  boost_duty=21.80% buck_duty=1.37% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=890616 co2_ppm=355.3 pm2p5_ug_m3=16.64 boost_v=2.081 charger_v=3.771
+Telemetry sample:
+  uptime_ms=890616
+  SCD30 ok=1 CO2=355.3 ppm T=25.04 C RH=29.40 %
+  SPS30 ok=1 PM1=9.33 PM2.5=16.64 PM4=18.81 PM10=20.96
+  flame_adc=23 flame_digital=1
+  boost_input: V=2.081 I=0.1164 P=0.2423
+  charger_input: V=3.771 I=0.1160 P=0.4374
+  boost_duty=22.47% buck_duty=1.02% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=900623 co2_ppm=352.6 pm2p5_ug_m3=17.14 boost_v=2.088 charger_v=3.771
+Telemetry sample:
+  uptime_ms=900623
+  SCD30 ok=1 CO2=352.6 ppm T=24.89 C RH=29.22 %
+  SPS30 ok=1 PM1=9.49 PM2.5=17.14 PM4=19.44 PM10=22.12
+  flame_adc=23 flame_digital=1
+  boost_input: V=2.088 I=0.1178 P=0.2462
+  charger_input: V=3.771 I=0.1199 P=0.4519
+  boost_duty=20.71% buck_duty=1.31% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=910630 co2_ppm=357.7 pm2p5_ug_m3=16.79 boost_v=2.079 charger_v=3.762
+Telemetry sample:
+  uptime_ms=910630
+  SCD30 ok=1 CO2=357.7 ppm T=24.85 C RH=29.31 %
+  SPS30 ok=1 PM1=9.29 PM2.5=16.79 PM4=19.09 PM10=21.82
+  flame_adc=21 flame_digital=1
+  boost_input: V=2.079 I=0.1200 P=0.2485
+  charger_input: V=3.762 I=0.1191 P=0.4480
+  boost_duty=21.94% buck_duty=1.77% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=920637 co2_ppm=360.1 pm2p5_ug_m3=16.57 boost_v=2.098 charger_v=3.783
+Telemetry sample:
+  uptime_ms=920637
+  SCD30 ok=1 CO2=360.1 ppm T=24.70 C RH=28.82 %
+  SPS30 ok=1 PM1=9.22 PM2.5=16.57 PM4=18.54 PM10=21.52
+  flame_adc=20 flame_digital=1
+  boost_input: V=2.098 I=0.1162 P=0.2434
+  charger_input: V=3.783 I=0.1245 P=0.4711
+  boost_duty=21.66% buck_duty=1.34% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=930644 co2_ppm=354.3 pm2p5_ug_m3=17.89 boost_v=2.132 charger_v=3.780
+Telemetry sample:
+  uptime_ms=930644
+  SCD30 ok=1 CO2=354.3 ppm T=24.56 C RH=29.38 %
+  SPS30 ok=1 PM1=9.73 PM2.5=17.89 PM4=19.98 PM10=23.16
+  flame_adc=21 flame_digital=1
+  boost_input: V=2.132 I=0.1221 P=0.2595
+  charger_input: V=3.780 I=0.1296 P=0.4898
+  boost_duty=22.61% buck_duty=2.04% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=940651 co2_ppm=352.3 pm2p5_ug_m3=16.46 boost_v=2.151 charger_v=3.770
+Telemetry sample:
+  uptime_ms=940651
+  SCD30 ok=1 CO2=352.3 ppm T=24.76 C RH=29.09 %
+  SPS30 ok=1 PM1=9.29 PM2.5=16.46 PM4=18.43 PM10=21.07
+  flame_adc=19 flame_digital=1
+  boost_input: V=2.151 I=0.1175 P=0.2520
+  charger_input: V=3.770 I=0.1277 P=0.4816
+  boost_duty=22.24% buck_duty=1.79% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=950658 co2_ppm=356.4 pm2p5_ug_m3=17.42 boost_v=2.184 charger_v=3.732
+Telemetry sample:
+  uptime_ms=950658
+  SCD30 ok=1 CO2=356.4 ppm T=24.49 C RH=28.77 %
+  SPS30 ok=1 PM1=9.72 PM2.5=17.42 PM4=19.42 PM10=22.70
+  flame_adc=20 flame_digital=1
+  boost_input: V=2.184 I=0.1211 P=0.2636
+  charger_input: V=3.732 I=0.1342 P=0.5008
+  boost_duty=22.44% buck_duty=1.77% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=960665 co2_ppm=355.1 pm2p5_ug_m3=17.09 boost_v=2.191 charger_v=3.753
+Telemetry sample:
+  uptime_ms=960665
+  SCD30 ok=1 CO2=355.1 ppm T=24.30 C RH=28.72 %
+  SPS30 ok=1 PM1=9.54 PM2.5=17.09 PM4=19.43 PM10=22.03
+  flame_adc=17 flame_digital=1
+  boost_input: V=2.191 I=0.1223 P=0.2681
+  charger_input: V=3.753 I=0.1281 P=0.4806
+  boost_duty=21.80% buck_duty=1.92% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=970672 co2_ppm=353.5 pm2p5_ug_m3=15.34 boost_v=2.194 charger_v=3.719
+Telemetry sample:
+  uptime_ms=970672
+  SCD30 ok=1 CO2=353.5 ppm T=24.24 C RH=28.98 %
+  SPS30 ok=1 PM1=8.73 PM2.5=15.34 PM4=16.92 PM10=20.00
+  flame_adc=18 flame_digital=1
+  boost_input: V=2.194 I=0.1203 P=0.2643
+  charger_input: V=3.719 I=0.1357 P=0.5046
+  boost_duty=24.50% buck_duty=1.92% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=980679 co2_ppm=354.9 pm2p5_ug_m3=16.23 boost_v=2.230 charger_v=3.710
+Telemetry sample:
+  uptime_ms=980679
+  SCD30 ok=1 CO2=354.9 ppm T=24.29 C RH=28.95 %
+  SPS30 ok=1 PM1=8.86 PM2.5=16.23 PM4=18.41 PM10=20.49
+  flame_adc=18 flame_digital=1
+  boost_input: V=2.230 I=0.1217 P=0.2705
+  charger_input: V=3.710 I=0.1346 P=0.4994
+  boost_duty=22.95% buck_duty=2.67% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=990686 co2_ppm=356.6 pm2p5_ug_m3=16.48 boost_v=2.250 charger_v=3.704
+Telemetry sample:
+  uptime_ms=990686
+  SCD30 ok=1 CO2=356.6 ppm T=24.03 C RH=28.75 %
+  SPS30 ok=1 PM1=9.19 PM2.5=16.48 PM4=18.75 PM10=21.35
+  flame_adc=20 flame_digital=1
+  boost_input: V=2.250 I=0.1228 P=0.2756
+  charger_input: V=3.704 I=0.1341 P=0.4968
+  boost_duty=22.59% buck_duty=2.50% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1000693 co2_ppm=355.1 pm2p5_ug_m3=16.81 boost_v=2.237 charger_v=3.723
+Telemetry sample:
+  uptime_ms=1000693
+  SCD30 ok=1 CO2=355.1 ppm T=24.06 C RH=29.14 %
+  SPS30 ok=1 PM1=9.23 PM2.5=16.81 PM4=18.55 PM10=21.72
+  flame_adc=20 flame_digital=1
+  boost_input: V=2.237 I=0.1136 P=0.2539
+  charger_input: V=3.723 I=0.1350 P=0.5025
+  boost_duty=23.33% buck_duty=2.73% charge_current_limit_mA=10
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1010700 co2_ppm=356.4 pm2p5_ug_m3=16.44 boost_v=2.276 charger_v=3.703
+Telemetry sample:
+  uptime_ms=1010700
+  SCD30 ok=1 CO2=356.4 ppm T=23.95 C RH=28.87 %
+  SPS30 ok=1 PM1=8.98 PM2.5=16.44 PM4=18.60 PM10=20.89
+  flame_adc=17 flame_digital=1
+  boost_input: V=2.276 I=0.1114 P=0.2541
+  charger_input: V=3.703 I=0.1397 P=0.5175
+  boost_duty=24.27% buck_duty=2.83% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1020707 co2_ppm=350.9 pm2p5_ug_m3=15.09 boost_v=2.281 charger_v=3.707
+Telemetry sample:
+  uptime_ms=1020707
+  SCD30 ok=1 CO2=350.9 ppm T=23.99 C RH=29.27 %
+  SPS30 ok=1 PM1=8.56 PM2.5=15.09 PM4=17.10 PM10=19.32
+  flame_adc=17 flame_digital=1
+  boost_input: V=2.281 I=0.1092 P=0.2495
+  charger_input: V=3.707 I=0.1377 P=0.5106
+  boost_duty=24.57% buck_duty=3.26% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1030714 co2_ppm=359.3 pm2p5_ug_m3=14.74 boost_v=2.314 charger_v=3.691
+Telemetry sample:
+  uptime_ms=1030714
+  SCD30 ok=1 CO2=359.3 ppm T=23.64 C RH=28.99 %
+  SPS30 ok=1 PM1=8.34 PM2.5=14.74 PM4=16.80 PM10=18.48
+  flame_adc=20 flame_digital=1
+  boost_input: V=2.314 I=0.1073 P=0.2486
+  charger_input: V=3.691 I=0.1412 P=0.5213
+  boost_duty=24.70% buck_duty=2.83% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1040721 co2_ppm=343.2 pm2p5_ug_m3=16.23 boost_v=2.327 charger_v=3.695
+Telemetry sample:
+  uptime_ms=1040721
+  SCD30 ok=1 CO2=343.2 ppm T=23.79 C RH=29.26 %
+  SPS30 ok=1 PM1=9.06 PM2.5=16.23 PM4=18.37 PM10=20.80
+  flame_adc=18 flame_digital=1
+  boost_input: V=2.327 I=0.1146 P=0.2676
+  charger_input: V=3.695 I=0.1376 P=0.5087
+  boost_duty=24.11% buck_duty=3.68% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1050728 co2_ppm=352.7 pm2p5_ug_m3=14.53 boost_v=2.344 charger_v=3.687
+Telemetry sample:
+  uptime_ms=1050728
+  SCD30 ok=1 CO2=352.7 ppm T=23.61 C RH=29.40 %
+  SPS30 ok=1 PM1=8.22 PM2.5=14.53 PM4=16.39 PM10=18.58
+  flame_adc=19 flame_digital=1
+  boost_input: V=2.344 I=0.1068 P=0.2512
+  charger_input: V=3.687 I=0.1419 P=0.5233
+  boost_duty=23.75% buck_duty=3.89% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1060735 co2_ppm=349.1 pm2p5_ug_m3=16.15 boost_v=2.334 charger_v=3.685
+Telemetry sample:
+  uptime_ms=1060735
+  SCD30 ok=1 CO2=349.1 ppm T=23.65 C RH=29.16 %
+  SPS30 ok=1 PM1=8.92 PM2.5=16.15 PM4=17.93 PM10=20.97
+  flame_adc=21 flame_digital=1
+  boost_input: V=2.334 I=0.1094 P=0.2562
+  charger_input: V=3.685 I=0.1403 P=0.5170
+  boost_duty=25.09% buck_duty=3.63% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1070742 co2_ppm=349.7 pm2p5_ug_m3=14.75 boost_v=2.368 charger_v=3.651
+Telemetry sample:
+  uptime_ms=1070742
+  SCD30 ok=1 CO2=349.7 ppm T=23.28 C RH=29.08 %
+  SPS30 ok=1 PM1=8.36 PM2.5=14.75 PM4=16.68 PM10=18.68
+  flame_adc=20 flame_digital=1
+  boost_input: V=2.368 I=0.1036 P=0.2444
+  charger_input: V=3.651 I=0.1410 P=0.5150
+  boost_duty=25.44% buck_duty=3.44% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1080749 co2_ppm=334.3 pm2p5_ug_m3=14.16 boost_v=2.391 charger_v=3.644
+Telemetry sample:
+  uptime_ms=1080749
+  SCD30 ok=1 CO2=334.3 ppm T=23.34 C RH=29.53 %
+  SPS30 ok=1 PM1=7.76 PM2.5=14.16 PM4=15.57 PM10=17.72
+  flame_adc=21 flame_digital=1
+  boost_input: V=2.391 I=0.0967 P=0.2318
+  charger_input: V=3.644 I=0.1387 P=0.5054
+  boost_duty=27.22% buck_duty=3.97% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1090756 co2_ppm=346.0 pm2p5_ug_m3=14.52 boost_v=2.393 charger_v=3.636
+Telemetry sample:
+  uptime_ms=1090756
+  SCD30 ok=1 CO2=346.0 ppm T=23.21 C RH=29.70 %
+  SPS30 ok=1 PM1=8.02 PM2.5=14.52 PM4=16.46 PM10=18.93
+  flame_adc=20 flame_digital=1
+  boost_input: V=2.393 I=0.1010 P=0.2424
+  charger_input: V=3.636 I=0.1407 P=0.5115
+  boost_duty=27.05% buck_duty=4.19% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1100763 co2_ppm=339.3 pm2p5_ug_m3=14.63 boost_v=2.402 charger_v=3.624
+Telemetry sample:
+  uptime_ms=1100763
+  SCD30 ok=1 CO2=339.3 ppm T=23.10 C RH=29.76 %
+  SPS30 ok=1 PM1=7.98 PM2.5=14.63 PM4=16.35 PM10=19.00
+  flame_adc=22 flame_digital=1
+  boost_input: V=2.402 I=0.0930 P=0.2240
+  charger_input: V=3.624 I=0.1415 P=0.5127
+  boost_duty=24.95% buck_duty=4.38% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1110770 co2_ppm=331.6 pm2p5_ug_m3=14.71 boost_v=2.417 charger_v=3.621
+Telemetry sample:
+  uptime_ms=1110770
+  SCD30 ok=1 CO2=331.6 ppm T=23.05 C RH=29.67 %
+  SPS30 ok=1 PM1=8.29 PM2.5=14.71 PM4=16.58 PM10=18.92
+  flame_adc=21 flame_digital=1
+  boost_input: V=2.417 I=0.0889 P=0.2140
+  charger_input: V=3.621 I=0.1363 P=0.4934
+  boost_duty=25.05% buck_duty=4.49% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1120777 co2_ppm=330.2 pm2p5_ug_m3=15.27 boost_v=2.461 charger_v=3.642
+Telemetry sample:
+  uptime_ms=1120777
+  SCD30 ok=1 CO2=330.2 ppm T=23.02 C RH=30.28 %
+  SPS30 ok=1 PM1=8.35 PM2.5=15.27 PM4=16.90 PM10=19.91
+  flame_adc=21 flame_digital=1
+  boost_input: V=2.461 I=0.0848 P=0.2091
+  charger_input: V=3.642 I=0.1350 P=0.4915
+  boost_duty=26.20% buck_duty=4.14% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1130784 co2_ppm=321.4 pm2p5_ug_m3=13.88 boost_v=2.461 charger_v=3.611
+Telemetry sample:
+  uptime_ms=1130784
+  SCD30 ok=1 CO2=321.4 ppm T=22.79 C RH=30.17 %
+  SPS30 ok=1 PM1=7.86 PM2.5=13.88 PM4=15.82 PM10=17.87
+  flame_adc=24 flame_digital=1
+  boost_input: V=2.461 I=0.0819 P=0.2012
+  charger_input: V=3.611 I=0.1347 P=0.4862
+  boost_duty=27.85% buck_duty=4.93% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1140791 co2_ppm=323.1 pm2p5_ug_m3=13.75 boost_v=2.495 charger_v=3.610
+Telemetry sample:
+  uptime_ms=1140791
+  SCD30 ok=1 CO2=323.1 ppm T=22.76 C RH=30.01 %
+  SPS30 ok=1 PM1=7.76 PM2.5=13.75 PM4=15.59 PM10=17.67
+  flame_adc=24 flame_digital=1
+  boost_input: V=2.495 I=0.0769 P=0.1922
+  charger_input: V=3.610 I=0.1364 P=0.4923
+  boost_duty=28.61% buck_duty=4.55% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1150798 co2_ppm=332.7 pm2p5_ug_m3=14.69 boost_v=2.536 charger_v=3.593
+Telemetry sample:
+  uptime_ms=1150798
+  SCD30 ok=1 CO2=332.7 ppm T=22.64 C RH=30.80 %
+  SPS30 ok=1 PM1=8.09 PM2.5=14.69 PM4=16.27 PM10=18.74
+  flame_adc=24 flame_digital=1
+  boost_input: V=2.536 I=0.0816 P=0.2062
+  charger_input: V=3.593 I=0.1360 P=0.4885
+  boost_duty=26.94% buck_duty=5.15% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1160805 co2_ppm=324.3 pm2p5_ug_m3=13.37 boost_v=2.510 charger_v=3.575
+Telemetry sample:
+  uptime_ms=1160805
+  SCD30 ok=1 CO2=324.3 ppm T=22.58 C RH=30.71 %
+  SPS30 ok=1 PM1=7.40 PM2.5=13.37 PM4=14.68 PM10=17.37
+  flame_adc=27 flame_digital=1
+  boost_input: V=2.510 I=0.0690 P=0.1743
+  charger_input: V=3.575 I=0.1328 P=0.4748
+  boost_duty=28.36% buck_duty=5.25% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1170812 co2_ppm=328.1 pm2p5_ug_m3=13.05 boost_v=2.559 charger_v=3.598
+Telemetry sample:
+  uptime_ms=1170812
+  SCD30 ok=1 CO2=328.1 ppm T=22.78 C RH=30.68 %
+  SPS30 ok=1 PM1=7.34 PM2.5=13.05 PM4=14.53 PM10=16.64
+  flame_adc=24 flame_digital=1
+  boost_input: V=2.559 I=0.0752 P=0.1931
+  charger_input: V=3.598 I=0.1290 P=0.4642
+  boost_duty=28.93% buck_duty=4.76% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1180819 co2_ppm=324.0 pm2p5_ug_m3=13.53 boost_v=2.571 charger_v=3.570
+Telemetry sample:
+  uptime_ms=1180819
+  SCD30 ok=1 CO2=324.0 ppm T=22.72 C RH=31.08 %
+  SPS30 ok=1 PM1=7.37 PM2.5=13.53 PM4=15.23 PM10=17.67
+  flame_adc=26 flame_digital=1
+  boost_input: V=2.571 I=0.0705 P=0.1818
+  charger_input: V=3.570 I=0.1287 P=0.4596
+  boost_duty=28.40% buck_duty=4.83% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1190826 co2_ppm=320.4 pm2p5_ug_m3=12.93 boost_v=2.571 charger_v=3.569
+Telemetry sample:
+  uptime_ms=1190826
+  SCD30 ok=1 CO2=320.4 ppm T=22.51 C RH=31.51 %
+  SPS30 ok=1 PM1=7.22 PM2.5=12.93 PM4=14.49 PM10=16.45
+  flame_adc=26 flame_digital=1
+  boost_input: V=2.571 I=0.0638 P=0.1639
+  charger_input: V=3.569 I=0.1285 P=0.4586
+  boost_duty=28.87% buck_duty=5.57% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1200833 co2_ppm=322.4 pm2p5_ug_m3=12.30 boost_v=2.607 charger_v=3.560
+Telemetry sample:
+  uptime_ms=1200833
+  SCD30 ok=1 CO2=322.4 ppm T=22.34 C RH=31.51 %
+  SPS30 ok=1 PM1=6.90 PM2.5=12.30 PM4=13.48 PM10=15.54
+  flame_adc=29 flame_digital=1
+  boost_input: V=2.607 I=0.0565 P=0.1465
+  charger_input: V=3.560 I=0.1234 P=0.4395
+  boost_duty=29.72% buck_duty=5.07% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1210840 co2_ppm=323.7 pm2p5_ug_m3=12.96 boost_v=2.651 charger_v=3.557
+Telemetry sample:
+  uptime_ms=1210840
+  SCD30 ok=1 CO2=323.7 ppm T=22.42 C RH=31.36 %
+  SPS30 ok=1 PM1=7.18 PM2.5=12.96 PM4=14.56 PM10=16.44
+  flame_adc=26 flame_digital=1
+  boost_input: V=2.651 I=0.0546 P=0.1455
+  charger_input: V=3.557 I=0.1234 P=0.4389
+  boost_duty=28.44% buck_duty=5.47% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1220847 co2_ppm=334.0 pm2p5_ug_m3=13.28 boost_v=2.639 charger_v=3.534
+Telemetry sample:
+  uptime_ms=1220847
+  SCD30 ok=1 CO2=334.0 ppm T=22.38 C RH=31.63 %
+  SPS30 ok=1 PM1=7.39 PM2.5=13.28 PM4=14.77 PM10=17.11
+  flame_adc=29 flame_digital=1
+  boost_input: V=2.639 I=0.0564 P=0.1485
+  charger_input: V=3.534 I=0.1232 P=0.4352
+  boost_duty=28.61% buck_duty=5.58% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1230854 co2_ppm=341.7 pm2p5_ug_m3=13.04 boost_v=2.657 charger_v=3.532
+Telemetry sample:
+  uptime_ms=1230854
+  SCD30 ok=1 CO2=341.7 ppm T=22.31 C RH=32.20 %
+  SPS30 ok=1 PM1=7.38 PM2.5=13.04 PM4=14.61 PM10=16.29
+  flame_adc=28 flame_digital=1
+  boost_input: V=2.657 I=0.0524 P=0.1402
+  charger_input: V=3.532 I=0.1233 P=0.4355
+  boost_duty=29.19% buck_duty=5.17% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1240861 co2_ppm=340.8 pm2p5_ug_m3=13.02 boost_v=2.679 charger_v=3.525
+Telemetry sample:
+  uptime_ms=1240861
+  SCD30 ok=1 CO2=340.8 ppm T=22.16 C RH=32.23 %
+  SPS30 ok=1 PM1=7.11 PM2.5=13.02 PM4=14.88 PM10=16.44
+  flame_adc=29 flame_digital=1
+  boost_input: V=2.679 I=0.0494 P=0.1331
+  charger_input: V=3.525 I=0.1180 P=0.4158
+  boost_duty=29.49% buck_duty=5.43% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1250868 co2_ppm=339.1 pm2p5_ug_m3=11.77 boost_v=2.688 charger_v=3.522
+Telemetry sample:
+  uptime_ms=1250868
+  SCD30 ok=1 CO2=339.1 ppm T=22.15 C RH=32.45 %
+  SPS30 ok=1 PM1=6.40 PM2.5=11.77 PM4=13.05 PM10=14.85
+  flame_adc=30 flame_digital=1
+  boost_input: V=2.688 I=0.0436 P=0.1180
+  charger_input: V=3.522 I=0.1194 P=0.4204
+  boost_duty=29.32% buck_duty=5.77% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1260875 co2_ppm=350.0 pm2p5_ug_m3=11.83 boost_v=2.734 charger_v=3.500
+Telemetry sample:
+  uptime_ms=1260875
+  SCD30 ok=1 CO2=350.0 ppm T=22.16 C RH=32.46 %
+  SPS30 ok=1 PM1=6.78 PM2.5=11.83 PM4=13.25 PM10=15.08
+  flame_adc=29 flame_digital=1
+  boost_input: V=2.734 I=0.0496 P=0.1353
+  charger_input: V=3.500 I=0.1129 P=0.3951
+  boost_duty=28.85% buck_duty=5.41% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1270882 co2_ppm=352.7 pm2p5_ug_m3=11.68 boost_v=2.728 charger_v=3.480
+Telemetry sample:
+  uptime_ms=1270882
+  SCD30 ok=1 CO2=352.7 ppm T=21.92 C RH=33.42 %
+  SPS30 ok=1 PM1=6.61 PM2.5=11.68 PM4=12.92 PM10=14.84
+  flame_adc=31 flame_digital=1
+  boost_input: V=2.728 I=0.0437 P=0.1183
+  charger_input: V=3.480 I=0.1145 P=0.3984
+  boost_duty=29.09% buck_duty=5.59% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1280889 co2_ppm=362.0 pm2p5_ug_m3=12.66 boost_v=2.774 charger_v=3.474
+Telemetry sample:
+  uptime_ms=1280889
+  SCD30 ok=1 CO2=362.0 ppm T=21.98 C RH=33.59 %
+  SPS30 ok=1 PM1=6.95 PM2.5=12.66 PM4=14.17 PM10=16.07
+  flame_adc=29 flame_digital=1
+  boost_input: V=2.774 I=0.0457 P=0.1266
+  charger_input: V=3.474 I=0.1112 P=0.3864
+  boost_duty=31.00% buck_duty=5.56% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1290896 co2_ppm=361.2 pm2p5_ug_m3=12.85 boost_v=2.777 charger_v=3.476
+Telemetry sample:
+  uptime_ms=1290896
+  SCD30 ok=1 CO2=361.2 ppm T=22.10 C RH=33.92 %
+  SPS30 ok=1 PM1=6.97 PM2.5=12.85 PM4=14.39 PM10=16.83
+  flame_adc=31 flame_digital=1
+  boost_input: V=2.777 I=0.0403 P=0.1123
+  charger_input: V=3.476 I=0.1074 P=0.3733
+  boost_duty=29.70% buck_duty=5.56% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1300903 co2_ppm=370.7 pm2p5_ug_m3=12.00 boost_v=2.768 charger_v=3.474
+Telemetry sample:
+  uptime_ms=1300903
+  SCD30 ok=1 CO2=370.7 ppm T=21.89 C RH=33.81 %
+  SPS30 ok=1 PM1=6.79 PM2.5=12.00 PM4=13.26 PM10=15.73
+  flame_adc=30 flame_digital=1
+  boost_input: V=2.768 I=0.0409 P=0.1141
+  charger_input: V=3.474 I=0.1019 P=0.3540
+  boost_duty=29.30% buck_duty=5.39% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1310910 co2_ppm=385.2 pm2p5_ug_m3=11.08 boost_v=2.823 charger_v=3.476
+Telemetry sample:
+  uptime_ms=1310910
+  SCD30 ok=1 CO2=385.2 ppm T=21.95 C RH=34.08 %
+  SPS30 ok=1 PM1=6.29 PM2.5=11.08 PM4=12.58 PM10=14.53
+  flame_adc=31 flame_digital=1
+  boost_input: V=2.823 I=0.0412 P=0.1163
+  charger_input: V=3.476 I=0.1024 P=0.3558
+  boost_duty=32.11% buck_duty=5.79% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1320917 co2_ppm=391.5 pm2p5_ug_m3=10.41 boost_v=2.807 charger_v=3.464
+Telemetry sample:
+  uptime_ms=1320917
+  SCD30 ok=1 CO2=391.5 ppm T=21.79 C RH=34.36 %
+  SPS30 ok=1 PM1=5.82 PM2.5=10.41 PM4=11.85 PM10=13.33
+  flame_adc=31 flame_digital=1
+  boost_input: V=2.807 I=0.0353 P=0.0983
+  charger_input: V=3.464 I=0.0981 P=0.3399
+  boost_duty=30.92% buck_duty=5.57% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1330924 co2_ppm=400.9 pm2p5_ug_m3=11.88 boost_v=2.862 charger_v=3.448
+Telemetry sample:
+  uptime_ms=1330924
+  SCD30 ok=1 CO2=400.9 ppm T=21.84 C RH=34.25 %
+  SPS30 ok=1 PM1=6.72 PM2.5=11.88 PM4=13.44 PM10=15.39
+  flame_adc=29 flame_digital=1
+  boost_input: V=2.862 I=0.0376 P=0.1072
+  charger_input: V=3.448 I=0.0925 P=0.3189
+  boost_duty=31.28% buck_duty=5.08% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1340931 co2_ppm=404.5 pm2p5_ug_m3=9.98 boost_v=2.881 charger_v=3.439
+Telemetry sample:
+  uptime_ms=1340931
+  SCD30 ok=1 CO2=404.5 ppm T=21.69 C RH=34.78 %
+  SPS30 ok=1 PM1=5.68 PM2.5=9.98 PM4=11.15 PM10=13.00
+  flame_adc=29 flame_digital=1
+  boost_input: V=2.881 I=0.0433 P=0.1242
+  charger_input: V=3.439 I=0.0921 P=0.3169
+  boost_duty=31.42% buck_duty=5.12% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1350938 co2_ppm=415.4 pm2p5_ug_m3=10.30 boost_v=2.895 charger_v=3.438
+Telemetry sample:
+  uptime_ms=1350938
+  SCD30 ok=1 CO2=415.4 ppm T=21.78 C RH=34.76 %
+  SPS30 ok=1 PM1=5.64 PM2.5=10.30 PM4=11.55 PM10=13.00
+  flame_adc=30 flame_digital=1
+  boost_input: V=2.895 I=0.0404 P=0.1177
+  charger_input: V=3.438 I=0.0888 P=0.3054
+  boost_duty=30.41% buck_duty=5.49% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1360945 co2_ppm=418.6 pm2p5_ug_m3=11.83 boost_v=2.916 charger_v=3.402
+Telemetry sample:
+  uptime_ms=1360945
+  SCD30 ok=1 CO2=418.6 ppm T=21.80 C RH=35.14 %
+  SPS30 ok=1 PM1=6.52 PM2.5=11.83 PM4=13.24 PM10=14.75
+  flame_adc=27 flame_digital=1
+  boost_input: V=2.916 I=0.0445 P=0.1288
+  charger_input: V=3.402 I=0.0841 P=0.2862
+  boost_duty=31.31% buck_duty=4.77% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1370952 co2_ppm=429.2 pm2p5_ug_m3=10.22 boost_v=2.887 charger_v=3.402
+Telemetry sample:
+  uptime_ms=1370952
+  SCD30 ok=1 CO2=429.2 ppm T=21.70 C RH=35.74 %
+  SPS30 ok=1 PM1=5.51 PM2.5=10.22 PM4=11.29 PM10=13.29
+  flame_adc=28 flame_digital=1
+  boost_input: V=2.887 I=0.0439 P=0.1261
+  charger_input: V=3.402 I=0.0868 P=0.2953
+  boost_duty=31.18% buck_duty=4.62% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1380959 co2_ppm=430.8 pm2p5_ug_m3=10.52 boost_v=2.940 charger_v=3.420
+Telemetry sample:
+  uptime_ms=1380959
+  SCD30 ok=1 CO2=430.8 ppm T=21.82 C RH=35.58 %
+  SPS30 ok=1 PM1=6.06 PM2.5=10.52 PM4=11.93 PM10=13.81
+  flame_adc=25 flame_digital=1
+  boost_input: V=2.940 I=0.0431 P=0.1276
+  charger_input: V=3.420 I=0.0805 P=0.2753
+  boost_duty=32.38% buck_duty=5.06% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1390966 co2_ppm=437.1 pm2p5_ug_m3=11.57 boost_v=2.955 charger_v=3.387
+Telemetry sample:
+  uptime_ms=1390966
+  SCD30 ok=1 CO2=437.1 ppm T=21.80 C RH=36.29 %
+  SPS30 ok=1 PM1=6.23 PM2.5=11.57 PM4=12.85 PM10=14.70
+  flame_adc=28 flame_digital=1
+  boost_input: V=2.955 I=0.0467 P=0.1390
+  charger_input: V=3.387 I=0.0766 P=0.2595
+  boost_duty=31.34% buck_duty=4.59% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1400973 co2_ppm=450.1 pm2p5_ug_m3=10.81 boost_v=2.989 charger_v=3.400
+Telemetry sample:
+  uptime_ms=1400973
+  SCD30 ok=1 CO2=450.1 ppm T=21.76 C RH=36.58 %
+  SPS30 ok=1 PM1=5.97 PM2.5=10.81 PM4=12.06 PM10=13.90
+  flame_adc=24 flame_digital=1
+  boost_input: V=2.989 I=0.0448 P=0.1344
+  charger_input: V=3.400 I=0.0788 P=0.2679
+  boost_duty=31.73% buck_duty=4.36% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1410980 co2_ppm=444.2 pm2p5_ug_m3=11.06 boost_v=2.959 charger_v=3.375
+Telemetry sample:
+  uptime_ms=1410980
+  SCD30 ok=1 CO2=444.2 ppm T=21.57 C RH=37.07 %
+  SPS30 ok=1 PM1=6.19 PM2.5=11.06 PM4=12.64 PM10=13.86
+  flame_adc=25 flame_digital=1
+  boost_input: V=2.959 I=0.0449 P=0.1338
+  charger_input: V=3.375 I=0.0714 P=0.2409
+  boost_duty=33.31% buck_duty=4.47% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1420987 co2_ppm=450.2 pm2p5_ug_m3=10.95 boost_v=3.005 charger_v=3.351
+Telemetry sample:
+  uptime_ms=1420987
+  SCD30 ok=1 CO2=450.2 ppm T=21.76 C RH=36.85 %
+  SPS30 ok=1 PM1=6.00 PM2.5=10.95 PM4=12.27 PM10=14.40
+  flame_adc=25 flame_digital=1
+  boost_input: V=3.005 I=0.0511 P=0.1539
+  charger_input: V=3.351 I=0.0731 P=0.2450
+  boost_duty=33.53% buck_duty=4.65% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1430994 co2_ppm=452.7 pm2p5_ug_m3=9.49 boost_v=3.013 charger_v=3.342
+Telemetry sample:
+  uptime_ms=1430994
+  SCD30 ok=1 CO2=452.7 ppm T=21.67 C RH=37.33 %
+  SPS30 ok=1 PM1=5.36 PM2.5=9.49 PM4=10.61 PM10=12.41
+  flame_adc=23 flame_digital=1
+  boost_input: V=3.013 I=0.0525 P=0.1587
+  charger_input: V=3.342 I=0.0714 P=0.2385
+  boost_duty=32.95% buck_duty=4.07% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1441001 co2_ppm=464.6 pm2p5_ug_m3=9.31 boost_v=3.022 charger_v=3.353
+Telemetry sample:
+  uptime_ms=1441001
+  SCD30 ok=1 CO2=464.6 ppm T=21.81 C RH=37.67 %
+  SPS30 ok=1 PM1=5.28 PM2.5=9.31 PM4=10.14 PM10=11.80
+  flame_adc=22 flame_digital=1
+  boost_input: V=3.022 I=0.0547 P=0.1657
+  charger_input: V=3.353 I=0.0660 P=0.2213
+  boost_duty=33.55% buck_duty=4.14% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1451008 co2_ppm=476.0 pm2p5_ug_m3=10.47 boost_v=3.039 charger_v=3.342
+Telemetry sample:
+  uptime_ms=1451008
+  SCD30 ok=1 CO2=476.0 ppm T=21.70 C RH=37.41 %
+  SPS30 ok=1 PM1=5.90 PM2.5=10.47 PM4=11.78 PM10=13.67
+  flame_adc=23 flame_digital=1
+  boost_input: V=3.039 I=0.0553 P=0.1678
+  charger_input: V=3.342 I=0.0605 P=0.2021
+  boost_duty=34.97% buck_duty=4.18% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1461015 co2_ppm=469.1 pm2p5_ug_m3=10.39 boost_v=3.088 charger_v=3.324
+Telemetry sample:
+  uptime_ms=1461015
+  SCD30 ok=1 CO2=469.1 ppm T=21.85 C RH=37.67 %
+  SPS30 ok=1 PM1=5.78 PM2.5=10.39 PM4=11.61 PM10=13.50
+  flame_adc=21 flame_digital=1
+  boost_input: V=3.088 I=0.0609 P=0.1876
+  charger_input: V=3.324 I=0.0570 P=0.1894
+  boost_duty=33.14% buck_duty=3.61% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1471022 co2_ppm=473.6 pm2p5_ug_m3=8.96 boost_v=3.100 charger_v=3.338
+Telemetry sample:
+  uptime_ms=1471022
+  SCD30 ok=1 CO2=473.6 ppm T=21.67 C RH=38.10 %
+  SPS30 ok=1 PM1=5.08 PM2.5=8.96 PM4=9.75 PM10=11.15
+  flame_adc=20 flame_digital=1
+  boost_input: V=3.100 I=0.0685 P=0.2123
+  charger_input: V=3.338 I=0.0596 P=0.1989
+  boost_duty=33.90% buck_duty=4.14% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1481029 co2_ppm=476.9 pm2p5_ug_m3=9.28 boost_v=3.083 charger_v=3.327
+Telemetry sample:
+  uptime_ms=1481029
+  SCD30 ok=1 CO2=476.9 ppm T=21.84 C RH=38.44 %
+  SPS30 ok=1 PM1=5.26 PM2.5=9.28 PM4=10.66 PM10=11.51
+  flame_adc=20 flame_digital=1
+  boost_input: V=3.083 I=0.0634 P=0.1955
+  charger_input: V=3.327 I=0.0549 P=0.1826
+  boost_duty=34.69% buck_duty=3.66% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1491036 co2_ppm=481.3 pm2p5_ug_m3=9.80 boost_v=3.100 charger_v=3.322
+Telemetry sample:
+  uptime_ms=1491036
+  SCD30 ok=1 CO2=481.3 ppm T=21.71 C RH=38.51 %
+  SPS30 ok=1 PM1=5.36 PM2.5=9.80 PM4=11.15 PM10=12.29
+  flame_adc=21 flame_digital=1
+  boost_input: V=3.100 I=0.0693 P=0.2152
+  charger_input: V=3.322 I=0.0525 P=0.1744
+  boost_duty=34.33% buck_duty=3.26% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1501043 co2_ppm=481.2 pm2p5_ug_m3=9.94 boost_v=3.135 charger_v=3.307
+Telemetry sample:
+  uptime_ms=1501043
+  SCD30 ok=1 CO2=481.2 ppm T=21.81 C RH=38.72 %
+  SPS30 ok=1 PM1=5.68 PM2.5=9.94 PM4=11.40 PM10=12.68
+  flame_adc=21 flame_digital=1
+  boost_input: V=3.135 I=0.0778 P=0.2440
+  charger_input: V=3.307 I=0.0499 P=0.1649
+  boost_duty=34.80% buck_duty=3.65% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1511050 co2_ppm=486.5 pm2p5_ug_m3=9.11 boost_v=3.136 charger_v=3.310
+Telemetry sample:
+  uptime_ms=1511050
+  SCD30 ok=1 CO2=486.5 ppm T=21.86 C RH=39.34 %
+  SPS30 ok=1 PM1=5.09 PM2.5=9.11 PM4=10.34 PM10=11.91
+  flame_adc=21 flame_digital=1
+  boost_input: V=3.136 I=0.0732 P=0.2298
+  charger_input: V=3.310 I=0.0508 P=0.1681
+  boost_duty=34.88% buck_duty=3.28% charge_current_limit_mA=250
+  fault_flags=0x2
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1521057 co2_ppm=474.3 pm2p5_ug_m3=10.52 boost_v=3.172 charger_v=3.312
+Telemetry sample:
+  uptime_ms=1521057
+  SCD30 ok=1 CO2=474.3 ppm T=21.88 C RH=39.29 %
+  SPS30 ok=1 PM1=5.69 PM2.5=10.52 PM4=11.77 PM10=13.12
+  flame_adc=17 flame_digital=1
+  boost_input: V=3.172 I=0.0778 P=0.2476
+  charger_input: V=3.312 I=0.0480 P=0.1592
+  boost_duty=34.25% buck_duty=2.97% charge_current_limit_mA=250
+  fault_flags=0x2
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1531064 co2_ppm=486.8 pm2p5_ug_m3=9.45 boost_v=3.194 charger_v=3.280
+Telemetry sample:
+  uptime_ms=1531064
+  SCD30 ok=1 CO2=486.8 ppm T=21.75 C RH=39.74 %
+  SPS30 ok=1 PM1=5.15 PM2.5=9.45 PM4=10.82 PM10=12.40
+  flame_adc=19 flame_digital=1
+  boost_input: V=3.194 I=0.0807 P=0.2585
+  charger_input: V=3.280 I=0.0457 P=0.1499
+  boost_duty=36.69% buck_duty=2.80% charge_current_limit_mA=250
+  fault_flags=0x2
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1541071 co2_ppm=479.0 pm2p5_ug_m3=9.00 boost_v=3.192 charger_v=3.298
+Telemetry sample:
+  uptime_ms=1541071
+  SCD30 ok=1 CO2=479.0 ppm T=21.95 C RH=39.74 %
+  SPS30 ok=1 PM1=4.80 PM2.5=9.00 PM4=10.29 PM10=11.57
+  flame_adc=16 flame_digital=1
+  boost_input: V=3.192 I=0.0906 P=0.2894
+  charger_input: V=3.298 I=0.0481 P=0.1587
+  boost_duty=37.09% buck_duty=2.41% charge_current_limit_mA=250
+  fault_flags=0x2
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1551078 co2_ppm=483.4 pm2p5_ug_m3=10.16 boost_v=3.245 charger_v=3.254
+Telemetry sample:
+  uptime_ms=1551078
+  SCD30 ok=1 CO2=483.4 ppm T=22.01 C RH=39.92 %
+  SPS30 ok=1 PM1=5.44 PM2.5=10.16 PM4=11.62 PM10=13.23
+  flame_adc=20 flame_digital=1
+  boost_input: V=3.245 I=0.0946 P=0.3072
+  charger_input: V=3.254 I=0.0435 P=0.1416
+  boost_duty=37.03% buck_duty=2.30% charge_current_limit_mA=250
+  fault_flags=0x2
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1561085 co2_ppm=480.7 pm2p5_ug_m3=8.56 boost_v=3.228 charger_v=3.260
+Telemetry sample:
+  uptime_ms=1561085
+  SCD30 ok=1 CO2=480.7 ppm T=22.00 C RH=40.39 %
+  SPS30 ok=1 PM1=4.95 PM2.5=8.56 PM4=9.56 PM10=11.16
+  flame_adc=19 flame_digital=1
+  boost_input: V=3.228 I=0.0972 P=0.3130
+  charger_input: V=3.260 I=0.0408 P=0.1331
+  boost_duty=37.86% buck_duty=2.22% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1571092 co2_ppm=472.9 pm2p5_ug_m3=9.70 boost_v=3.280 charger_v=3.254
+Telemetry sample:
+  uptime_ms=1571092
+  SCD30 ok=1 CO2=472.9 ppm T=22.14 C RH=40.69 %
+  SPS30 ok=1 PM1=5.52 PM2.5=9.70 PM4=10.58 PM10=12.21
+  flame_adc=20 flame_digital=1
+  boost_input: V=3.280 I=0.1010 P=0.3313
+  charger_input: V=3.254 I=0.0442 P=0.1437
+  boost_duty=35.61% buck_duty=2.31% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1581099 co2_ppm=473.9 pm2p5_ug_m3=8.96 boost_v=3.248 charger_v=3.251
+Telemetry sample:
+  uptime_ms=1581099
+  SCD30 ok=1 CO2=473.9 ppm T=22.08 C RH=40.90 %
+  SPS30 ok=1 PM1=4.86 PM2.5=8.96 PM4=10.28 PM10=11.60
+  flame_adc=19 flame_digital=1
+  boost_input: V=3.248 I=0.1035 P=0.3371
+  charger_input: V=3.251 I=0.0390 P=0.1267
+  boost_duty=37.17% buck_duty=1.98% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1591106 co2_ppm=478.4 pm2p5_ug_m3=9.45 boost_v=3.276 charger_v=3.230
+Telemetry sample:
+  uptime_ms=1591106
+  SCD30 ok=1 CO2=478.4 ppm T=22.07 C RH=40.76 %
+  SPS30 ok=1 PM1=5.04 PM2.5=9.45 PM4=10.31 PM10=12.15
+  flame_adc=17 flame_digital=1
+  boost_input: V=3.276 I=0.1052 P=0.3440
+  charger_input: V=3.230 I=0.0442 P=0.1427
+  boost_duty=37.51% buck_duty=1.91% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1601113 co2_ppm=470.2 pm2p5_ug_m3=8.78 boost_v=3.334 charger_v=3.242
+Telemetry sample:
+  uptime_ms=1601113
+  SCD30 ok=1 CO2=470.2 ppm T=22.16 C RH=41.44 %
+  SPS30 ok=1 PM1=4.93 PM2.5=8.78 PM4=9.89 PM10=11.17
+  flame_adc=20 flame_digital=1
+  boost_input: V=3.334 I=0.1037 P=0.3467
+  charger_input: V=3.242 I=0.0379 P=0.1228
+  boost_duty=36.34% buck_duty=2.04% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1611120 co2_ppm=477.6 pm2p5_ug_m3=9.52 boost_v=3.311 charger_v=3.237
+Telemetry sample:
+  uptime_ms=1611120
+  SCD30 ok=1 CO2=477.6 ppm T=22.17 C RH=40.98 %
+  SPS30 ok=1 PM1=5.44 PM2.5=9.52 PM4=10.38 PM10=11.88
+  flame_adc=20 flame_digital=1
+  boost_input: V=3.311 I=0.1121 P=0.3714
+  charger_input: V=3.237 I=0.0441 P=0.1427
+  boost_duty=36.22% buck_duty=1.56% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1621127 co2_ppm=483.7 pm2p5_ug_m3=9.78 boost_v=3.360 charger_v=3.212
+Telemetry sample:
+  uptime_ms=1621127
+  SCD30 ok=1 CO2=483.7 ppm T=22.27 C RH=41.68 %
+  SPS30 ok=1 PM1=5.27 PM2.5=9.78 PM4=10.92 PM10=12.13
+  flame_adc=20 flame_digital=1
+  boost_input: V=3.360 I=0.1082 P=0.3638
+  charger_input: V=3.212 I=0.0398 P=0.1278
+  boost_duty=39.03% buck_duty=1.68% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1631134 co2_ppm=474.9 pm2p5_ug_m3=8.65 boost_v=3.349 charger_v=3.223
+Telemetry sample:
+  uptime_ms=1631134
+  SCD30 ok=1 CO2=474.9 ppm T=22.22 C RH=41.67 %
+  SPS30 ok=1 PM1=4.75 PM2.5=8.65 PM4=9.62 PM10=10.70
+  flame_adc=21 flame_digital=1
+  boost_input: V=3.349 I=0.1096 P=0.3665
+  charger_input: V=3.223 I=0.0435 P=0.1401
+  boost_duty=39.61% buck_duty=1.22% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1641141 co2_ppm=480.9 pm2p5_ug_m3=9.49 boost_v=3.385 charger_v=3.206
+Telemetry sample:
+  uptime_ms=1641141
+  SCD30 ok=1 CO2=480.9 ppm T=22.55 C RH=41.95 %
+  SPS30 ok=1 PM1=5.39 PM2.5=9.49 PM4=10.64 PM10=11.81
+  flame_adc=22 flame_digital=1
+  boost_input: V=3.385 I=0.1097 P=0.3715
+  charger_input: V=3.206 I=0.0393 P=0.1261
+  boost_duty=38.74% buck_duty=0.92% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1651148 co2_ppm=485.5 pm2p5_ug_m3=8.48 boost_v=3.381 charger_v=3.199
+Telemetry sample:
+  uptime_ms=1651148
+  SCD30 ok=1 CO2=485.5 ppm T=22.39 C RH=42.02 %
+  SPS30 ok=1 PM1=4.88 PM2.5=8.48 PM4=9.79 PM10=10.85
+  flame_adc=21 flame_digital=1
+  boost_input: V=3.381 I=0.1134 P=0.3835
+  charger_input: V=3.199 I=0.0430 P=0.1375
+  boost_duty=37.63% buck_duty=0.88% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1661155 co2_ppm=483.5 pm2p5_ug_m3=9.00 boost_v=3.449 charger_v=3.203
+Telemetry sample:
+  uptime_ms=1661155
+  SCD30 ok=1 CO2=483.5 ppm T=22.42 C RH=42.48 %
+  SPS30 ok=1 PM1=4.87 PM2.5=9.00 PM4=10.10 PM10=11.19
+  flame_adc=20 flame_digital=1
+  boost_input: V=3.449 I=0.1126 P=0.3876
+  charger_input: V=3.203 I=0.0406 P=0.1302
+  boost_duty=38.17% buck_duty=1.13% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1671162 co2_ppm=475.8 pm2p5_ug_m3=8.24 boost_v=3.429 charger_v=3.202
+Telemetry sample:
+  uptime_ms=1671162
+  SCD30 ok=1 CO2=475.8 ppm T=22.73 C RH=42.22 %
+  SPS30 ok=1 PM1=4.77 PM2.5=8.24 PM4=9.32 PM10=10.90
+  flame_adc=20 flame_digital=1
+  boost_input: V=3.429 I=0.1148 P=0.3945
+  charger_input: V=3.202 I=0.0428 P=0.1371
+  boost_duty=38.11% buck_duty=0.82% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1681169 co2_ppm=477.4 pm2p5_ug_m3=8.99 boost_v=3.446 charger_v=3.202
+Telemetry sample:
+  uptime_ms=1681169
+  SCD30 ok=1 CO2=477.4 ppm T=22.71 C RH=42.40 %
+  SPS30 ok=1 PM1=4.80 PM2.5=8.99 PM4=9.82 PM10=11.11
+  flame_adc=24 flame_digital=1
+  boost_input: V=3.446 I=0.1232 P=0.4240
+  charger_input: V=3.202 I=0.0446 P=0.1429
+  boost_duty=38.81% buck_duty=1.06% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1691176 co2_ppm=492.9 pm2p5_ug_m3=9.68 boost_v=3.443 charger_v=3.208
+Telemetry sample:
+  uptime_ms=1691176
+  SCD30 ok=1 CO2=492.9 ppm T=22.74 C RH=42.54 %
+  SPS30 ok=1 PM1=5.25 PM2.5=9.68 PM4=10.86 PM10=12.02
+  flame_adc=21 flame_digital=1
+  boost_input: V=3.443 I=0.1164 P=0.4011
+  charger_input: V=3.208 I=0.0440 P=0.1412
+  boost_duty=39.22% buck_duty=0.52% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1701183 co2_ppm=493.0 pm2p5_ug_m3=9.27 boost_v=3.472 charger_v=3.172
+Telemetry sample:
+  uptime_ms=1701183
+  SCD30 ok=1 CO2=493.0 ppm T=22.71 C RH=42.37 %
+  SPS30 ok=1 PM1=5.02 PM2.5=9.27 PM4=10.63 PM10=11.55
+  flame_adc=25 flame_digital=1
+  boost_input: V=3.472 I=0.1236 P=0.4292
+  charger_input: V=3.172 I=0.0407 P=0.1290
+  boost_duty=38.85% buck_duty=0.54% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1711190 co2_ppm=497.8 pm2p5_ug_m3=9.23 boost_v=3.508 charger_v=3.175
+Telemetry sample:
+  uptime_ms=1711190
+  SCD30 ok=1 CO2=497.8 ppm T=22.80 C RH=42.70 %
+  SPS30 ok=1 PM1=5.34 PM2.5=9.23 PM4=10.10 PM10=11.89
+  flame_adc=23 flame_digital=1
+  boost_input: V=3.508 I=0.1200 P=0.4205
+  charger_input: V=3.175 I=0.0454 P=0.1442
+  boost_duty=40.38% buck_duty=0.84% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1721197 co2_ppm=492.8 pm2p5_ug_m3=9.07 boost_v=3.545 charger_v=3.191
+Telemetry sample:
+  uptime_ms=1721197
+  SCD30 ok=1 CO2=492.8 ppm T=23.02 C RH=42.67 %
+  SPS30 ok=1 PM1=5.17 PM2.5=9.07 PM4=10.24 PM10=11.71
+  flame_adc=23 flame_digital=1
+  boost_input: V=3.545 I=0.1201 P=0.4264
+  charger_input: V=3.191 I=0.0476 P=0.1519
+  boost_duty=40.82% buck_duty=0.70% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1731204 co2_ppm=499.2 pm2p5_ug_m3=9.38 boost_v=3.562 charger_v=3.190
+Telemetry sample:
+  uptime_ms=1731204
+  SCD30 ok=1 CO2=499.2 ppm T=23.13 C RH=42.62 %
+  SPS30 ok=1 PM1=5.13 PM2.5=9.38 PM4=10.39 PM10=12.19
+  flame_adc=27 flame_digital=1
+  boost_input: V=3.562 I=0.1224 P=0.4356
+  charger_input: V=3.190 I=0.0510 P=0.1626
+  boost_duty=40.84% buck_duty=0.95% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1741211 co2_ppm=504.7 pm2p5_ug_m3=8.43 boost_v=3.544 charger_v=3.183
+Telemetry sample:
+  uptime_ms=1741211
+  SCD30 ok=1 CO2=504.7 ppm T=23.06 C RH=43.11 %
+  SPS30 ok=1 PM1=4.67 PM2.5=8.43 PM4=9.33 PM10=10.45
+  flame_adc=24 flame_digital=1
+  boost_input: V=3.544 I=0.1189 P=0.4207
+  charger_input: V=3.183 I=0.0473 P=0.1507
+  boost_duty=39.89% buck_duty=0.52% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1751218 co2_ppm=495.7 pm2p5_ug_m3=8.50 boost_v=3.607 charger_v=3.155
+Telemetry sample:
+  uptime_ms=1751218
+  SCD30 ok=1 CO2=495.7 ppm T=23.25 C RH=42.68 %
+  SPS30 ok=1 PM1=4.61 PM2.5=8.50 PM4=9.62 PM10=11.00
+  flame_adc=26 flame_digital=1
+  boost_input: V=3.607 I=0.1145 P=0.4141
+  charger_input: V=3.155 I=0.0545 P=0.1720
+  boost_duty=40.19% buck_duty=0.14% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1761225 co2_ppm=499.3 pm2p5_ug_m3=8.27 boost_v=3.625 charger_v=3.173
+Telemetry sample:
+  uptime_ms=1761225
+  SCD30 ok=1 CO2=499.3 ppm T=23.35 C RH=43.14 %
+  SPS30 ok=1 PM1=4.69 PM2.5=8.27 PM4=9.38 PM10=10.61
+  flame_adc=25 flame_digital=1
+  boost_input: V=3.625 I=0.1189 P=0.4307
+  charger_input: V=3.173 I=0.0533 P=0.1691
+  boost_duty=39.94% buck_duty=0.37% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1771232 co2_ppm=505.8 pm2p5_ug_m3=10.21 boost_v=3.584 charger_v=3.174
+Telemetry sample:
+  uptime_ms=1771232
+  SCD30 ok=1 CO2=505.8 ppm T=23.28 C RH=43.06 %
+  SPS30 ok=1 PM1=5.62 PM2.5=10.21 PM4=11.64 PM10=13.40
+  flame_adc=29 flame_digital=1
+  boost_input: V=3.584 I=0.1181 P=0.4236
+  charger_input: V=3.174 I=0.0534 P=0.1694
+  boost_duty=41.87% buck_duty=0.50% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1781239 co2_ppm=504.2 pm2p5_ug_m3=8.90 boost_v=3.632 charger_v=3.158
+Telemetry sample:
+  uptime_ms=1781239
+  SCD30 ok=1 CO2=504.2 ppm T=23.48 C RH=43.14 %
+  SPS30 ok=1 PM1=4.97 PM2.5=8.90 PM4=10.16 PM10=11.05
+  flame_adc=30 flame_digital=1
+  boost_input: V=3.632 I=0.1123 P=0.4083
+  charger_input: V=3.158 I=0.0602 P=0.1901
+  boost_duty=42.51% buck_duty=0.28% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1791246 co2_ppm=509.1 pm2p5_ug_m3=8.87 boost_v=3.667 charger_v=3.163
+Telemetry sample:
+  uptime_ms=1791246
+  SCD30 ok=1 CO2=509.1 ppm T=23.44 C RH=42.64 %
+  SPS30 ok=1 PM1=5.09 PM2.5=8.87 PM4=9.64 PM10=11.23
+  flame_adc=28 flame_digital=1
+  boost_input: V=3.667 I=0.1131 P=0.4151
+  charger_input: V=3.163 I=0.0578 P=0.1829
+  boost_duty=41.26% buck_duty=0.44% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1801253 co2_ppm=517.3 pm2p5_ug_m3=9.55 boost_v=3.652 charger_v=3.155
+Telemetry sample:
+  uptime_ms=1801253
+  SCD30 ok=1 CO2=517.3 ppm T=23.75 C RH=42.95 %
+  SPS30 ok=1 PM1=5.10 PM2.5=9.55 PM4=10.83 PM10=12.51
+  flame_adc=31 flame_digital=1
+  boost_input: V=3.652 I=0.1055 P=0.3845
+  charger_input: V=3.155 I=0.0585 P=0.1846
+  boost_duty=41.80% buck_duty=0.46% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1811260 co2_ppm=511.0 pm2p5_ug_m3=8.66 boost_v=3.705 charger_v=3.147
+Telemetry sample:
+  uptime_ms=1811260
+  SCD30 ok=1 CO2=511.0 ppm T=23.81 C RH=42.89 %
+  SPS30 ok=1 PM1=4.99 PM2.5=8.66 PM4=9.64 PM10=11.33
+  flame_adc=29 flame_digital=1
+  boost_input: V=3.705 I=0.1098 P=0.4073
+  charger_input: V=3.147 I=0.0616 P=0.1939
+  boost_duty=42.81% buck_duty=0.53% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1821267 co2_ppm=518.2 pm2p5_ug_m3=9.85 boost_v=3.715 charger_v=3.144
+Telemetry sample:
+  uptime_ms=1821267
+  SCD30 ok=1 CO2=518.2 ppm T=23.88 C RH=43.22 %
+  SPS30 ok=1 PM1=5.43 PM2.5=9.85 PM4=10.84 PM10=12.80
+  flame_adc=29 flame_digital=1
+  boost_input: V=3.715 I=0.1057 P=0.3936
+  charger_input: V=3.144 I=0.0679 P=0.2134
+  boost_duty=42.92% buck_duty=0.47% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1831274 co2_ppm=524.7 pm2p5_ug_m3=10.12 boost_v=3.707 charger_v=3.160
+Telemetry sample:
+  uptime_ms=1831274
+  SCD30 ok=1 CO2=524.7 ppm T=23.87 C RH=42.86 %
+  SPS30 ok=1 PM1=5.72 PM2.5=10.12 PM4=11.35 PM10=13.29
+  flame_adc=31 flame_digital=1
+  boost_input: V=3.707 I=0.1041 P=0.3858
+  charger_input: V=3.160 I=0.0669 P=0.2113
+  boost_duty=42.26% buck_duty=0.95% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1841281 co2_ppm=517.9 pm2p5_ug_m3=9.29 boost_v=3.745 charger_v=3.154
+Telemetry sample:
+  uptime_ms=1841281
+  SCD30 ok=1 CO2=517.9 ppm T=23.90 C RH=43.15 %
+  SPS30 ok=1 PM1=5.30 PM2.5=9.29 PM4=10.53 PM10=12.18
+  flame_adc=29 flame_digital=1
+  boost_input: V=3.745 I=0.1003 P=0.3764
+  charger_input: V=3.154 I=0.0721 P=0.2274
+  boost_duty=44.18% buck_duty=1.05% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1851288 co2_ppm=528.7 pm2p5_ug_m3=9.33 boost_v=3.771 charger_v=3.164
+Telemetry sample:
+  uptime_ms=1851288
+  SCD30 ok=1 CO2=528.7 ppm T=23.96 C RH=42.66 %
+  SPS30 ok=1 PM1=5.35 PM2.5=9.33 PM4=10.22 PM10=11.78
+  flame_adc=29 flame_digital=1
+  boost_input: V=3.771 I=0.0960 P=0.3622
+  charger_input: V=3.164 I=0.0713 P=0.2256
+  boost_duty=42.21% buck_duty=0.80% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1861295 co2_ppm=524.0 pm2p5_ug_m3=9.36 boost_v=3.762 charger_v=3.145
+Telemetry sample:
+  uptime_ms=1861295
+  SCD30 ok=1 CO2=524.0 ppm T=24.19 C RH=43.12 %
+  SPS30 ok=1 PM1=5.06 PM2.5=9.36 PM4=10.74 PM10=11.63
+  flame_adc=29 flame_digital=1
+  boost_input: V=3.762 I=0.0926 P=0.3480
+  charger_input: V=3.145 I=0.0773 P=0.2432
+  boost_duty=42.15% buck_duty=0.60% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1871302 co2_ppm=519.6 pm2p5_ug_m3=9.85 boost_v=3.789 charger_v=3.147
+Telemetry sample:
+  uptime_ms=1871302
+  SCD30 ok=1 CO2=519.6 ppm T=24.26 C RH=42.57 %
+  SPS30 ok=1 PM1=5.45 PM2.5=9.85 PM4=11.09 PM10=12.55
+  flame_adc=31 flame_digital=1
+  boost_input: V=3.789 I=0.0864 P=0.3282
+  charger_input: V=3.147 I=0.0768 P=0.2415
+  boost_duty=42.48% buck_duty=1.16% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1881309 co2_ppm=519.1 pm2p5_ug_m3=9.66 boost_v=3.791 charger_v=3.155
+Telemetry sample:
+  uptime_ms=1881309
+  SCD30 ok=1 CO2=519.1 ppm T=24.24 C RH=42.66 %
+  SPS30 ok=1 PM1=5.19 PM2.5=9.66 PM4=10.72 PM10=12.75
+  flame_adc=30 flame_digital=1
+  boost_input: V=3.791 I=0.0893 P=0.3381
+  charger_input: V=3.155 I=0.0807 P=0.2546
+  boost_duty=44.12% buck_duty=1.12% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1891316 co2_ppm=514.9 pm2p5_ug_m3=10.73 boost_v=3.847 charger_v=3.160
+Telemetry sample:
+  uptime_ms=1891316
+  SCD30 ok=1 CO2=514.9 ppm T=24.55 C RH=42.78 %
+  SPS30 ok=1 PM1=5.81 PM2.5=10.73 PM4=11.97 PM10=13.77
+  flame_adc=31 flame_digital=1
+  boost_input: V=3.847 I=0.0834 P=0.3204
+  charger_input: V=3.160 I=0.0857 P=0.2708
+  boost_duty=44.45% buck_duty=1.05% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1901323 co2_ppm=513.1 pm2p5_ug_m3=10.65 boost_v=3.857 charger_v=3.155
+Telemetry sample:
+  uptime_ms=1901323
+  SCD30 ok=1 CO2=513.1 ppm T=24.62 C RH=42.42 %
+  SPS30 ok=1 PM1=5.85 PM2.5=10.65 PM4=12.21 PM10=14.01
+  flame_adc=30 flame_digital=1
+  boost_input: V=3.857 I=0.0763 P=0.2951
+  charger_input: V=3.155 I=0.0882 P=0.2784
+  boost_duty=43.14% buck_duty=1.62% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1911330 co2_ppm=510.3 pm2p5_ug_m3=10.69 boost_v=3.884 charger_v=3.142
+Telemetry sample:
+  uptime_ms=1911330
+  SCD30 ok=1 CO2=510.3 ppm T=24.59 C RH=42.26 %
+  SPS30 ok=1 PM1=6.00 PM2.5=10.69 PM4=11.81 PM10=13.74
+  flame_adc=27 flame_digital=1
+  boost_input: V=3.884 I=0.0739 P=0.2864
+  charger_input: V=3.142 I=0.0863 P=0.2711
+  boost_duty=45.36% buck_duty=1.44% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1921337 co2_ppm=499.1 pm2p5_ug_m3=11.16 boost_v=3.903 charger_v=3.143
+Telemetry sample:
+  uptime_ms=1921337
+  SCD30 ok=1 CO2=499.1 ppm T=24.88 C RH=42.45 %
+  SPS30 ok=1 PM1=6.12 PM2.5=11.16 PM4=12.44 PM10=14.12
+  flame_adc=29 flame_digital=1
+  boost_input: V=3.903 I=0.0701 P=0.2731
+  charger_input: V=3.143 I=0.0961 P=0.3019
+  boost_duty=45.17% buck_duty=1.87% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1931344 co2_ppm=489.1 pm2p5_ug_m3=10.14 boost_v=3.880 charger_v=3.132
+Telemetry sample:
+  uptime_ms=1931344
+  SCD30 ok=1 CO2=489.1 ppm T=24.71 C RH=42.14 %
+  SPS30 ok=1 PM1=5.77 PM2.5=10.14 PM4=11.46 PM10=13.31
+  flame_adc=29 flame_digital=1
+  boost_input: V=3.880 I=0.0718 P=0.2785
+  charger_input: V=3.132 I=0.0981 P=0.3074
+  boost_duty=44.62% buck_duty=1.76% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1941351 co2_ppm=484.0 pm2p5_ug_m3=10.42 boost_v=3.885 charger_v=3.154
+Telemetry sample:
+  uptime_ms=1941351
+  SCD30 ok=1 CO2=484.0 ppm T=25.03 C RH=42.13 %
+  SPS30 ok=1 PM1=5.72 PM2.5=10.42 PM4=11.57 PM10=13.03
+  flame_adc=26 flame_digital=1
+  boost_input: V=3.885 I=0.0621 P=0.2414
+  charger_input: V=3.154 I=0.1002 P=0.3162
+  boost_duty=45.54% buck_duty=2.03% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1951358 co2_ppm=484.9 pm2p5_ug_m3=11.79 boost_v=3.909 charger_v=3.138
+Telemetry sample:
+  uptime_ms=1951358
+  SCD30 ok=1 CO2=484.9 ppm T=24.87 C RH=41.84 %
+  SPS30 ok=1 PM1=6.38 PM2.5=11.79 PM4=13.43 PM10=14.82
+  flame_adc=25 flame_digital=1
+  boost_input: V=3.909 I=0.0608 P=0.2385
+  charger_input: V=3.138 I=0.1025 P=0.3215
+  boost_duty=44.88% buck_duty=2.13% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1961365 co2_ppm=479.6 pm2p5_ug_m3=11.10 boost_v=3.945 charger_v=3.165
+Telemetry sample:
+  uptime_ms=1961365
+  SCD30 ok=1 CO2=479.6 ppm T=25.22 C RH=41.44 %
+  SPS30 ok=1 PM1=6.35 PM2.5=11.10 PM4=12.29 PM10=14.15
+  flame_adc=24 flame_digital=1
+  boost_input: V=3.945 I=0.0570 P=0.2245
+  charger_input: V=3.165 I=0.1006 P=0.3183
+  boost_duty=45.97% buck_duty=2.20% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1971372 co2_ppm=463.3 pm2p5_ug_m3=11.14 boost_v=3.947 charger_v=3.155
+Telemetry sample:
+  uptime_ms=1971372
+  SCD30 ok=1 CO2=463.3 ppm T=25.27 C RH=41.65 %
+  SPS30 ok=1 PM1=6.19 PM2.5=11.14 PM4=12.40 PM10=14.42
+  flame_adc=24 flame_digital=1
+  boost_input: V=3.947 I=0.0611 P=0.2400
+  charger_input: V=3.155 I=0.1029 P=0.3248
+  boost_duty=46.17% buck_duty=2.02% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1981379 co2_ppm=457.1 pm2p5_ug_m3=11.22 boost_v=4.005 charger_v=3.171
+Telemetry sample:
+  uptime_ms=1981379
+  SCD30 ok=1 CO2=457.1 ppm T=25.21 C RH=41.05 %
+  SPS30 ok=1 PM1=6.29 PM2.5=11.22 PM4=12.86 PM10=14.76
+  flame_adc=26 flame_digital=1
+  boost_input: V=4.005 I=0.0545 P=0.2190
+  charger_input: V=3.171 I=0.1109 P=0.3517
+  boost_duty=47.43% buck_duty=2.58% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=1991386 co2_ppm=456.3 pm2p5_ug_m3=11.06 boost_v=3.980 charger_v=3.180
+Telemetry sample:
+  uptime_ms=1991386
+  SCD30 ok=1 CO2=456.3 ppm T=25.39 C RH=40.71 %
+  SPS30 ok=1 PM1=6.21 PM2.5=11.06 PM4=12.30 PM10=13.87
+  flame_adc=26 flame_digital=1
+  boost_input: V=3.980 I=0.0517 P=0.2054
+  charger_input: V=3.180 I=0.1133 P=0.3602
+  boost_duty=45.66% buck_duty=2.25% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2001393 co2_ppm=450.7 pm2p5_ug_m3=11.38 boost_v=4.013 charger_v=3.177
+Telemetry sample:
+  uptime_ms=2001393
+  SCD30 ok=1 CO2=450.7 ppm T=25.49 C RH=40.95 %
+  SPS30 ok=1 PM1=6.28 PM2.5=11.38 PM4=12.73 PM10=14.58
+  flame_adc=25 flame_digital=1
+  boost_input: V=4.013 I=0.0527 P=0.2115
+  charger_input: V=3.177 I=0.1152 P=0.3659
+  boost_duty=45.93% buck_duty=2.97% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2011400 co2_ppm=444.9 pm2p5_ug_m3=12.02 boost_v=4.018 charger_v=3.153
+Telemetry sample:
+  uptime_ms=2011400
+  SCD30 ok=1 CO2=444.9 ppm T=25.51 C RH=40.36 %
+  SPS30 ok=1 PM1=6.67 PM2.5=12.02 PM4=13.75 PM10=15.38
+  flame_adc=344 flame_digital=0
+  boost_input: V=4.018 I=0.0492 P=0.1969
+  charger_input: V=3.153 I=0.1197 P=0.3774
+  boost_duty=48.00% buck_duty=2.83% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2021407 co2_ppm=440.2 pm2p5_ug_m3=12.54 boost_v=4.035 charger_v=3.185
+Telemetry sample:
+  uptime_ms=2021407
+  SCD30 ok=1 CO2=440.2 ppm T=25.48 C RH=40.09 %
+  SPS30 ok=1 PM1=6.76 PM2.5=12.54 PM4=13.86 PM10=16.27
+  flame_adc=342 flame_digital=0
+  boost_input: V=4.035 I=0.0435 P=0.1758
+  charger_input: V=3.185 I=0.1152 P=0.3669
+  boost_duty=45.85% buck_duty=3.38% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2031414 co2_ppm=425.8 pm2p5_ug_m3=12.94 boost_v=4.089 charger_v=3.175
+Telemetry sample:
+  uptime_ms=2031414
+  SCD30 ok=1 CO2=425.8 ppm T=25.62 C RH=40.34 %
+  SPS30 ok=1 PM1=6.98 PM2.5=12.94 PM4=14.33 PM10=16.42
+  flame_adc=339 flame_digital=0
+  boost_input: V=4.089 I=0.0431 P=0.1753
+  charger_input: V=3.175 I=0.1206 P=0.3828
+  boost_duty=46.12% buck_duty=3.50% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2041421 co2_ppm=419.9 pm2p5_ug_m3=10.91 boost_v=4.069 charger_v=3.190
+Telemetry sample:
+  uptime_ms=2041421
+  SCD30 ok=1 CO2=419.9 ppm T=25.85 C RH=40.14 %
+  SPS30 ok=1 PM1=6.25 PM2.5=10.91 PM4=12.51 PM10=13.73
+  flame_adc=341 flame_digital=0
+  boost_input: V=4.069 I=0.0431 P=0.1761
+  charger_input: V=3.190 I=0.1258 P=0.4012
+  boost_duty=47.47% buck_duty=3.22% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2051428 co2_ppm=406.9 pm2p5_ug_m3=12.52 boost_v=4.129 charger_v=3.162
+Telemetry sample:
+  uptime_ms=2051428
+  SCD30 ok=1 CO2=406.9 ppm T=25.75 C RH=39.67 %
+  SPS30 ok=1 PM1=6.90 PM2.5=12.52 PM4=14.26 PM10=16.15
+  flame_adc=341 flame_digital=0
+  boost_input: V=4.129 I=0.0441 P=0.1823
+  charger_input: V=3.162 I=0.1284 P=0.4060
+  boost_duty=47.99% buck_duty=3.67% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2061435 co2_ppm=407.1 pm2p5_ug_m3=11.57 boost_v=4.119 charger_v=3.182
+Telemetry sample:
+  uptime_ms=2061435
+  SCD30 ok=1 CO2=407.1 ppm T=25.97 C RH=39.75 %
+  SPS30 ok=1 PM1=6.37 PM2.5=11.57 PM4=12.78 PM10=15.16
+  flame_adc=339 flame_digital=0
+  boost_input: V=4.119 I=0.0368 P=0.1522
+  charger_input: V=3.182 I=0.1304 P=0.4148
+  boost_duty=46.89% buck_duty=3.35% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2071442 co2_ppm=397.8 pm2p5_ug_m3=12.37 boost_v=4.135 charger_v=3.177
+Telemetry sample:
+  uptime_ms=2071442
+  SCD30 ok=1 CO2=397.8 ppm T=25.92 C RH=39.73 %
+  SPS30 ok=1 PM1=6.75 PM2.5=12.37 PM4=13.99 PM10=16.22
+  flame_adc=339 flame_digital=0
+  boost_input: V=4.135 I=0.0371 P=0.1528
+  charger_input: V=3.177 I=0.1269 P=0.4031
+  boost_duty=47.26% buck_duty=3.77% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2081449 co2_ppm=394.4 pm2p5_ug_m3=11.80 boost_v=4.155 charger_v=3.171
+Telemetry sample:
+  uptime_ms=2081449
+  SCD30 ok=1 CO2=394.4 ppm T=26.26 C RH=39.24 %
+  SPS30 ok=1 PM1=6.42 PM2.5=11.80 PM4=13.27 PM10=15.27
+  flame_adc=339 flame_digital=0
+  boost_input: V=4.155 I=0.0417 P=0.1726
+  charger_input: V=3.171 I=0.1300 P=0.4123
+  boost_duty=49.61% buck_duty=3.79% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2091456 co2_ppm=387.7 pm2p5_ug_m3=11.68 boost_v=4.195 charger_v=3.206
+Telemetry sample:
+  uptime_ms=2091456
+  SCD30 ok=1 CO2=387.7 ppm T=26.29 C RH=39.16 %
+  SPS30 ok=1 PM1=6.50 PM2.5=11.68 PM4=13.01 PM10=14.84
+  flame_adc=337 flame_digital=0
+  boost_input: V=4.195 I=0.0396 P=0.1669
+  charger_input: V=3.206 I=0.1330 P=0.4263
+  boost_duty=48.69% buck_duty=4.04% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2101463 co2_ppm=384.6 pm2p5_ug_m3=13.00 boost_v=4.177 charger_v=3.206
+Telemetry sample:
+  uptime_ms=2101463
+  SCD30 ok=1 CO2=384.6 ppm T=26.24 C RH=38.33 %
+  SPS30 ok=1 PM1=7.33 PM2.5=13.00 PM4=14.36 PM10=16.34
+  flame_adc=339 flame_digital=0
+  boost_input: V=4.177 I=0.0422 P=0.1763
+  charger_input: V=3.206 I=0.1347 P=0.4319
+  boost_duty=47.66% buck_duty=4.15% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2111470 co2_ppm=383.9 pm2p5_ug_m3=13.43 boost_v=4.213 charger_v=3.194
+Telemetry sample:
+  uptime_ms=2111470
+  SCD30 ok=1 CO2=383.9 ppm T=26.36 C RH=38.48 %
+  SPS30 ok=1 PM1=7.59 PM2.5=13.43 PM4=14.97 PM10=16.92
+  flame_adc=336 flame_digital=0
+  boost_input: V=4.213 I=0.0376 P=0.1588
+  charger_input: V=3.194 I=0.1330 P=0.4248
+  boost_duty=50.31% buck_duty=4.16% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2121477 co2_ppm=384.2 pm2p5_ug_m3=13.23 boost_v=4.213 charger_v=3.220
+Telemetry sample:
+  uptime_ms=2121477
+  SCD30 ok=1 CO2=384.2 ppm T=26.54 C RH=37.97 %
+  SPS30 ok=1 PM1=7.47 PM2.5=13.23 PM4=14.86 PM10=16.71
+  flame_adc=337 flame_digital=0
+  boost_input: V=4.213 I=0.0465 P=0.1969
+  charger_input: V=3.220 I=0.1330 P=0.4282
+  boost_duty=49.16% buck_duty=4.26% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2131484 co2_ppm=381.0 pm2p5_ug_m3=13.52 boost_v=4.250 charger_v=3.209
+Telemetry sample:
+  uptime_ms=2131484
+  SCD30 ok=1 CO2=381.0 ppm T=26.44 C RH=37.99 %
+  SPS30 ok=1 PM1=7.72 PM2.5=13.52 PM4=15.11 PM10=16.93
+  flame_adc=339 flame_digital=0
+  boost_input: V=4.250 I=0.0462 P=0.1958
+  charger_input: V=3.209 I=0.1377 P=0.4417
+  boost_duty=50.05% buck_duty=4.55% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2141491 co2_ppm=371.9 pm2p5_ug_m3=13.24 boost_v=4.265 charger_v=3.233
+Telemetry sample:
+  uptime_ms=2141491
+  SCD30 ok=1 CO2=371.9 ppm T=26.43 C RH=37.64 %
+  SPS30 ok=1 PM1=7.41 PM2.5=13.24 PM4=15.07 PM10=16.80
+  flame_adc=19 flame_digital=1
+  boost_input: V=4.265 I=0.0404 P=0.1731
+  charger_input: V=3.233 I=0.1409 P=0.4555
+  boost_duty=48.73% buck_duty=4.85% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2151498 co2_ppm=371.5 pm2p5_ug_m3=13.80 boost_v=4.264 charger_v=3.231
+Telemetry sample:
+  uptime_ms=2151498
+  SCD30 ok=1 CO2=371.5 ppm T=26.51 C RH=37.38 %
+  SPS30 ok=1 PM1=7.65 PM2.5=13.80 PM4=15.75 PM10=17.80
+  flame_adc=17 flame_digital=1
+  boost_input: V=4.264 I=0.0501 P=0.2133
+  charger_input: V=3.231 I=0.1366 P=0.4413
+  boost_duty=50.06% buck_duty=4.79% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2161505 co2_ppm=373.0 pm2p5_ug_m3=13.35 boost_v=4.327 charger_v=3.209
+Telemetry sample:
+  uptime_ms=2161505
+  SCD30 ok=1 CO2=373.0 ppm T=26.80 C RH=36.92 %
+  SPS30 ok=1 PM1=7.36 PM2.5=13.35 PM4=15.05 PM10=17.34
+  flame_adc=17 flame_digital=1
+  boost_input: V=4.327 I=0.0477 P=0.2057
+  charger_input: V=3.209 I=0.1394 P=0.4473
+  boost_duty=50.76% buck_duty=5.01% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2171512 co2_ppm=379.9 pm2p5_ug_m3=13.03 boost_v=4.305 charger_v=3.246
+Telemetry sample:
+  uptime_ms=2171512
+  SCD30 ok=1 CO2=379.9 ppm T=26.86 C RH=36.55 %
+  SPS30 ok=1 PM1=7.45 PM2.5=13.03 PM4=14.73 PM10=16.75
+  flame_adc=18 flame_digital=1
+  boost_input: V=4.305 I=0.0527 P=0.2266
+  charger_input: V=3.246 I=0.1360 P=0.4415
+  boost_duty=51.23% buck_duty=4.67% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2181519 co2_ppm=374.1 pm2p5_ug_m3=14.14 boost_v=4.327 charger_v=3.223
+Telemetry sample:
+  uptime_ms=2181519
+  SCD30 ok=1 CO2=374.1 ppm T=26.82 C RH=36.54 %
+  SPS30 ok=1 PM1=7.72 PM2.5=14.14 PM4=15.75 PM10=18.05
+  flame_adc=21 flame_digital=1
+  boost_input: V=4.327 I=0.0553 P=0.2398
+  charger_input: V=3.223 I=0.1388 P=0.4472
+  boost_duty=50.51% buck_duty=5.01% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2191526 co2_ppm=368.6 pm2p5_ug_m3=13.78 boost_v=4.380 charger_v=3.240
+Telemetry sample:
+  uptime_ms=2191526
+  SCD30 ok=1 CO2=368.6 ppm T=26.75 C RH=35.88 %
+  SPS30 ok=1 PM1=7.77 PM2.5=13.78 PM4=15.19 PM10=17.40
+  flame_adc=20 flame_digital=1
+  boost_input: V=4.380 I=0.0513 P=0.2244
+  charger_input: V=3.240 I=0.1367 P=0.4429
+  boost_duty=51.54% buck_duty=4.97% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2201533 co2_ppm=376.2 pm2p5_ug_m3=14.32 boost_v=4.382 charger_v=3.260
+Telemetry sample:
+  uptime_ms=2201533
+  SCD30 ok=1 CO2=376.2 ppm T=26.96 C RH=35.90 %
+  SPS30 ok=1 PM1=7.98 PM2.5=14.32 PM4=15.83 PM10=18.06
+  flame_adc=21 flame_digital=1
+  boost_input: V=4.382 I=0.0541 P=0.2369
+  charger_input: V=3.260 I=0.1416 P=0.4615
+  boost_duty=51.86% buck_duty=5.32% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2211540 co2_ppm=379.1 pm2p5_ug_m3=13.67 boost_v=4.417 charger_v=3.269
+Telemetry sample:
+  uptime_ms=2211540
+  SCD30 ok=1 CO2=379.1 ppm T=26.99 C RH=35.52 %
+  SPS30 ok=1 PM1=7.56 PM2.5=13.67 PM4=15.19 PM10=17.66
+  flame_adc=19 flame_digital=1
+  boost_input: V=4.417 I=0.0617 P=0.2723
+  charger_input: V=3.269 I=0.1386 P=0.4530
+  boost_duty=50.32% buck_duty=5.35% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2221547 co2_ppm=376.6 pm2p5_ug_m3=15.20 boost_v=4.390 charger_v=3.260
+Telemetry sample:
+  uptime_ms=2221547
+  SCD30 ok=1 CO2=376.6 ppm T=26.97 C RH=35.67 %
+  SPS30 ok=1 PM1=8.24 PM2.5=15.20 PM4=16.96 PM10=19.33
+  flame_adc=20 flame_digital=1
+  boost_input: V=4.390 I=0.0668 P=0.2940
+  charger_input: V=3.260 I=0.1428 P=0.4655
+  boost_duty=50.86% buck_duty=5.77% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2231554 co2_ppm=369.8 pm2p5_ug_m3=15.07 boost_v=4.417 charger_v=3.257
+Telemetry sample:
+  uptime_ms=2231554
+  SCD30 ok=1 CO2=369.8 ppm T=26.91 C RH=35.40 %
+  SPS30 ok=1 PM1=8.17 PM2.5=15.07 PM4=16.61 PM10=19.27
+  flame_adc=21 flame_digital=1
+  boost_input: V=4.417 I=0.0664 P=0.2931
+  charger_input: V=3.257 I=0.1418 P=0.4617
+  boost_duty=50.06% buck_duty=5.44% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2241561 co2_ppm=373.4 pm2p5_ug_m3=14.51 boost_v=4.422 charger_v=3.262
+Telemetry sample:
+  uptime_ms=2241561
+  SCD30 ok=1 CO2=373.4 ppm T=26.97 C RH=34.57 %
+  SPS30 ok=1 PM1=8.16 PM2.5=14.51 PM4=15.97 PM10=18.33
+  flame_adc=21 flame_digital=1
+  boost_input: V=4.422 I=0.0702 P=0.3096
+  charger_input: V=3.262 I=0.1358 P=0.4431
+  boost_duty=51.53% buck_duty=5.53% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2251568 co2_ppm=367.8 pm2p5_ug_m3=14.47 boost_v=4.448 charger_v=3.288
+Telemetry sample:
+  uptime_ms=2251568
+  SCD30 ok=1 CO2=367.8 ppm T=27.19 C RH=34.62 %
+  SPS30 ok=1 PM1=8.25 PM2.5=14.47 PM4=16.16 PM10=18.92
+  flame_adc=23 flame_digital=1
+  boost_input: V=4.448 I=0.0756 P=0.3359
+  charger_input: V=3.288 I=0.1379 P=0.4534
+  boost_duty=52.79% buck_duty=5.58% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2261575 co2_ppm=370.2 pm2p5_ug_m3=15.68 boost_v=4.490 charger_v=3.293
+Telemetry sample:
+  uptime_ms=2261575
+  SCD30 ok=1 CO2=370.2 ppm T=27.05 C RH=34.80 %
+  SPS30 ok=1 PM1=8.91 PM2.5=15.68 PM4=17.80 PM10=20.40
+  flame_adc=22 flame_digital=1
+  boost_input: V=4.490 I=0.0775 P=0.3482
+  charger_input: V=3.293 I=0.1389 P=0.4575
+  boost_duty=51.86% buck_duty=5.49% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2271582 co2_ppm=365.7 pm2p5_ug_m3=15.42 boost_v=4.522 charger_v=3.299
+Telemetry sample:
+  uptime_ms=2271582
+  SCD30 ok=1 CO2=365.7 ppm T=27.04 C RH=34.26 %
+  SPS30 ok=1 PM1=8.65 PM2.5=15.42 PM4=17.53 PM10=19.35
+  flame_adc=22 flame_digital=1
+  boost_input: V=4.522 I=0.0807 P=0.3647
+  charger_input: V=3.299 I=0.1321 P=0.4357
+  boost_duty=52.62% buck_duty=5.51% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2281589 co2_ppm=376.0 pm2p5_ug_m3=16.08 boost_v=4.541 charger_v=3.290
+Telemetry sample:
+  uptime_ms=2281589
+  SCD30 ok=1 CO2=376.0 ppm T=27.32 C RH=33.98 %
+  SPS30 ok=1 PM1=8.98 PM2.5=16.08 PM4=17.81 PM10=20.59
+  flame_adc=24 flame_digital=1
+  boost_input: V=4.541 I=0.0837 P=0.3793
+  charger_input: V=3.290 I=0.1306 P=0.4296
+  boost_duty=53.10% buck_duty=5.48% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2291596 co2_ppm=369.1 pm2p5_ug_m3=16.65 boost_v=4.554 charger_v=3.302
+Telemetry sample:
+  uptime_ms=2291596
+  SCD30 ok=1 CO2=369.1 ppm T=27.13 C RH=33.89 %
+  SPS30 ok=1 PM1=9.14 PM2.5=16.65 PM4=18.46 PM10=21.39
+  flame_adc=25 flame_digital=1
+  boost_input: V=4.554 I=0.0875 P=0.3975
+  charger_input: V=3.302 I=0.1334 P=0.4405
+  boost_duty=51.52% buck_duty=5.28% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2301603 co2_ppm=373.5 pm2p5_ug_m3=15.98 boost_v=4.575 charger_v=3.322
+Telemetry sample:
+  uptime_ms=2301603
+  SCD30 ok=1 CO2=373.5 ppm T=27.31 C RH=33.02 %
+  SPS30 ok=1 PM1=8.96 PM2.5=15.98 PM4=17.83 PM10=20.27
+  flame_adc=24 flame_digital=1
+  boost_input: V=4.575 I=0.0882 P=0.4042
+  charger_input: V=3.322 I=0.1341 P=0.4455
+  boost_duty=52.08% buck_duty=5.62% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2311610 co2_ppm=367.5 pm2p5_ug_m3=15.94 boost_v=4.592 charger_v=3.318
+Telemetry sample:
+  uptime_ms=2311610
+  SCD30 ok=1 CO2=367.5 ppm T=27.38 C RH=32.89 %
+  SPS30 ok=1 PM1=8.97 PM2.5=15.94 PM4=17.65 PM10=20.47
+  flame_adc=26 flame_digital=1
+  boost_input: V=4.592 I=0.0916 P=0.4203
+  charger_input: V=3.318 I=0.1324 P=0.4392
+  boost_duty=54.03% buck_duty=5.17% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2321617 co2_ppm=366.7 pm2p5_ug_m3=16.20 boost_v=4.600 charger_v=3.330
+Telemetry sample:
+  uptime_ms=2321617
+  SCD30 ok=1 CO2=366.7 ppm T=27.26 C RH=32.74 %
+  SPS30 ok=1 PM1=8.98 PM2.5=16.20 PM4=18.16 PM10=20.34
+  flame_adc=28 flame_digital=1
+  boost_input: V=4.600 I=0.0969 P=0.4458
+  charger_input: V=3.330 I=0.1264 P=0.4208
+  boost_duty=52.92% buck_duty=5.38% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2331624 co2_ppm=371.3 pm2p5_ug_m3=17.00 boost_v=4.608 charger_v=3.352
+Telemetry sample:
+  uptime_ms=2331624
+  SCD30 ok=1 CO2=371.3 ppm T=27.31 C RH=32.84 %
+  SPS30 ok=1 PM1=9.29 PM2.5=17.00 PM4=19.10 PM10=21.50
+  flame_adc=28 flame_digital=1
+  boost_input: V=4.608 I=0.0978 P=0.4515
+  charger_input: V=3.352 I=0.1250 P=0.4190
+  boost_duty=53.29% buck_duty=4.98% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2341631 co2_ppm=364.0 pm2p5_ug_m3=16.32 boost_v=4.594 charger_v=3.331
+Telemetry sample:
+  uptime_ms=2341631
+  SCD30 ok=1 CO2=364.0 ppm T=27.32 C RH=32.32 %
+  SPS30 ok=1 PM1=9.10 PM2.5=16.32 PM4=18.17 PM10=20.91
+  flame_adc=28 flame_digital=1
+  boost_input: V=4.594 I=0.1062 P=0.4889
+  charger_input: V=3.331 I=0.1238 P=0.4124
+  boost_duty=54.90% buck_duty=5.03% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2351638 co2_ppm=362.7 pm2p5_ug_m3=17.09 boost_v=4.632 charger_v=3.369
+Telemetry sample:
+  uptime_ms=2351638
+  SCD30 ok=1 CO2=362.7 ppm T=27.33 C RH=32.13 %
+  SPS30 ok=1 PM1=9.44 PM2.5=17.09 PM4=19.32 PM10=22.04
+  flame_adc=30 flame_digital=1
+  boost_input: V=4.632 I=0.1044 P=0.4839
+  charger_input: V=3.369 I=0.1244 P=0.4191
+  boost_duty=54.95% buck_duty=5.38% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2361645 co2_ppm=356.7 pm2p5_ug_m3=16.97 boost_v=4.678 charger_v=3.342
+Telemetry sample:
+  uptime_ms=2361645
+  SCD30 ok=1 CO2=356.7 ppm T=27.21 C RH=32.13 %
+  SPS30 ok=1 PM1=9.56 PM2.5=16.97 PM4=18.87 PM10=22.08
+  flame_adc=28 flame_digital=1
+  boost_input: V=4.678 I=0.1097 P=0.5124
+  charger_input: V=3.342 I=0.1193 P=0.3986
+  boost_duty=55.42% buck_duty=4.81% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2371652 co2_ppm=358.1 pm2p5_ug_m3=16.73 boost_v=4.651 charger_v=3.351
+Telemetry sample:
+  uptime_ms=2371652
+  SCD30 ok=1 CO2=358.1 ppm T=27.37 C RH=31.37 %
+  SPS30 ok=1 PM1=9.41 PM2.5=16.73 PM4=18.48 PM10=21.06
+  flame_adc=31 flame_digital=1
+  boost_input: V=4.651 I=0.1057 P=0.4914
+  charger_input: V=3.351 I=0.1217 P=0.4079
+  boost_duty=54.66% buck_duty=5.17% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2381659 co2_ppm=353.1 pm2p5_ug_m3=17.99 boost_v=4.675 charger_v=3.365
+Telemetry sample:
+  uptime_ms=2381659
+  SCD30 ok=1 CO2=353.1 ppm T=27.20 C RH=31.94 %
+  SPS30 ok=1 PM1=9.82 PM2.5=17.99 PM4=20.05 PM10=23.30
+  flame_adc=31 flame_digital=1
+  boost_input: V=4.675 I=0.1124 P=0.5255
+  charger_input: V=3.365 I=0.1194 P=0.4018
+  boost_duty=55.62% buck_duty=5.27% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2391666 co2_ppm=341.3 pm2p5_ug_m3=17.43 boost_v=4.691 charger_v=3.390
+Telemetry sample:
+  uptime_ms=2391666
+  SCD30 ok=1 CO2=341.3 ppm T=27.36 C RH=30.98 %
+  SPS30 ok=1 PM1=9.75 PM2.5=17.43 PM4=19.58 PM10=22.37
+  flame_adc=30 flame_digital=1
+  boost_input: V=4.691 I=0.1152 P=0.5409
+  charger_input: V=3.390 I=0.1109 P=0.3761
+  boost_duty=55.22% buck_duty=4.83% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2401673 co2_ppm=333.1 pm2p5_ug_m3=16.80 boost_v=4.722 charger_v=3.379
+Telemetry sample:
+  uptime_ms=2401673
+  SCD30 ok=1 CO2=333.1 ppm T=27.29 C RH=31.31 %
+  SPS30 ok=1 PM1=9.19 PM2.5=16.80 PM4=18.92 PM10=21.57
+  flame_adc=28 flame_digital=1
+  boost_input: V=4.722 I=0.1117 P=0.5274
+  charger_input: V=3.379 I=0.1076 P=0.3635
+  boost_duty=56.69% buck_duty=4.57% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2411680 co2_ppm=332.9 pm2p5_ug_m3=16.26 boost_v=4.771 charger_v=3.389
+Telemetry sample:
+  uptime_ms=2411680
+  SCD30 ok=1 CO2=332.9 ppm T=27.36 C RH=30.88 %
+  SPS30 ok=1 PM1=9.21 PM2.5=16.26 PM4=18.32 PM10=21.04
+  flame_adc=32 flame_digital=1
+  boost_input: V=4.771 I=0.1180 P=0.5636
+  charger_input: V=3.389 I=0.1091 P=0.3695
+  boost_duty=54.27% buck_duty=4.45% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2421687 co2_ppm=335.2 pm2p5_ug_m3=16.70 boost_v=4.787 charger_v=3.410
+Telemetry sample:
+  uptime_ms=2421687
+  SCD30 ok=1 CO2=335.2 ppm T=27.11 C RH=31.04 %
+  SPS30 ok=1 PM1=9.34 PM2.5=16.70 PM4=18.69 PM10=21.29
+  flame_adc=29 flame_digital=1
+  boost_input: V=4.787 I=0.1202 P=0.5752
+  charger_input: V=3.410 I=0.1036 P=0.3532
+  boost_duty=55.65% buck_duty=4.74% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2431694 co2_ppm=334.4 pm2p5_ug_m3=17.69 boost_v=4.765 charger_v=3.421
+Telemetry sample:
+  uptime_ms=2431694
+  SCD30 ok=1 CO2=334.4 ppm T=27.36 C RH=30.53 %
+  SPS30 ok=1 PM1=9.75 PM2.5=17.69 PM4=19.55 PM10=22.92
+  flame_adc=28 flame_digital=1
+  boost_input: V=4.765 I=0.1218 P=0.5793
+  charger_input: V=3.421 I=0.1038 P=0.3553
+  boost_duty=57.20% buck_duty=4.47% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2441701 co2_ppm=331.2 pm2p5_ug_m3=17.66 boost_v=4.799 charger_v=3.418
+Telemetry sample:
+  uptime_ms=2441701
+  SCD30 ok=1 CO2=331.2 ppm T=27.32 C RH=30.25 %
+  SPS30 ok=1 PM1=9.62 PM2.5=17.66 PM4=19.84 PM10=22.90
+  flame_adc=29 flame_digital=1
+  boost_input: V=4.799 I=0.1227 P=0.5886
+  charger_input: V=3.418 I=0.1002 P=0.3424
+  boost_duty=56.07% buck_duty=4.39% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2451708 co2_ppm=326.1 pm2p5_ug_m3=18.31 boost_v=4.804 charger_v=3.454
+Telemetry sample:
+  uptime_ms=2451708
+  SCD30 ok=1 CO2=326.1 ppm T=27.22 C RH=30.14 %
+  SPS30 ok=1 PM1=10.39 PM2.5=18.31 PM4=20.64 PM10=23.73
+  flame_adc=31 flame_digital=1
+  boost_input: V=4.804 I=0.1243 P=0.5970
+  charger_input: V=3.454 I=0.0977 P=0.3375
+  boost_duty=55.27% buck_duty=3.84% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2461715 co2_ppm=323.2 pm2p5_ug_m3=18.42 boost_v=4.851 charger_v=3.448
+Telemetry sample:
+  uptime_ms=2461715
+  SCD30 ok=1 CO2=323.2 ppm T=27.26 C RH=29.85 %
+  SPS30 ok=1 PM1=10.27 PM2.5=18.42 PM4=20.40 PM10=23.95
+  flame_adc=31 flame_digital=1
+  boost_input: V=4.851 I=0.1228 P=0.5949
+  charger_input: V=3.448 I=0.0918 P=0.3167
+  boost_duty=58.04% buck_duty=4.33% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2471722 co2_ppm=320.9 pm2p5_ug_m3=17.48 boost_v=4.876 charger_v=3.454
+Telemetry sample:
+  uptime_ms=2471722
+  SCD30 ok=1 CO2=320.9 ppm T=27.02 C RH=29.72 %
+  SPS30 ok=1 PM1=9.54 PM2.5=17.48 PM4=19.64 PM10=22.63
+  flame_adc=30 flame_digital=1
+  boost_input: V=4.876 I=0.1160 P=0.5659
+  charger_input: V=3.454 I=0.0914 P=0.3157
+  boost_duty=56.92% buck_duty=4.12% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2481729 co2_ppm=316.1 pm2p5_ug_m3=18.78 boost_v=4.852 charger_v=3.453
+Telemetry sample:
+  uptime_ms=2481729
+  SCD30 ok=1 CO2=316.1 ppm T=27.14 C RH=30.24 %
+  SPS30 ok=1 PM1=10.22 PM2.5=18.78 PM4=21.11 PM10=24.42
+  flame_adc=27 flame_digital=1
+  boost_input: V=4.852 I=0.1210 P=0.5861
+  charger_input: V=3.453 I=0.0911 P=0.3147
+  boost_duty=56.13% buck_duty=4.03% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2491736 co2_ppm=315.7 pm2p5_ug_m3=19.08 boost_v=4.898 charger_v=3.462
+Telemetry sample:
+  uptime_ms=2491736
+  SCD30 ok=1 CO2=315.7 ppm T=27.04 C RH=29.38 %
+  SPS30 ok=1 PM1=10.44 PM2.5=19.08 PM4=21.21 PM10=24.06
+  flame_adc=28 flame_digital=1
+  boost_input: V=4.898 I=0.1211 P=0.5938
+  charger_input: V=3.462 I=0.0839 P=0.2903
+  boost_duty=57.17% buck_duty=3.87% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2501743 co2_ppm=312.3 pm2p5_ug_m3=18.85 boost_v=4.928 charger_v=3.473
+Telemetry sample:
+  uptime_ms=2501743
+  SCD30 ok=1 CO2=312.3 ppm T=27.11 C RH=29.43 %
+  SPS30 ok=1 PM1=10.56 PM2.5=18.85 PM4=21.36 PM10=23.77
+  flame_adc=26 flame_digital=1
+  boost_input: V=4.928 I=0.1226 P=0.6035
+  charger_input: V=3.473 I=0.0868 P=0.3015
+  boost_duty=57.38% buck_duty=3.49% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2511750 co2_ppm=319.6 pm2p5_ug_m3=18.51 boost_v=4.933 charger_v=3.497
+Telemetry sample:
+  uptime_ms=2511750
+  SCD30 ok=1 CO2=319.6 ppm T=27.09 C RH=29.62 %
+  SPS30 ok=1 PM1=10.43 PM2.5=18.51 PM4=20.75 PM10=24.05
+  flame_adc=27 flame_digital=1
+  boost_input: V=4.933 I=0.1157 P=0.5706
+  charger_input: V=3.497 I=0.0825 P=0.2884
+  boost_duty=56.64% buck_duty=3.21% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2521757 co2_ppm=316.4 pm2p5_ug_m3=18.74 boost_v=4.948 charger_v=3.490
+Telemetry sample:
+  uptime_ms=2521757
+  SCD30 ok=1 CO2=316.4 ppm T=26.99 C RH=29.01 %
+  SPS30 ok=1 PM1=10.61 PM2.5=18.74 PM4=20.81 PM10=24.00
+  flame_adc=27 flame_digital=1
+  boost_input: V=4.948 I=0.1197 P=0.5914
+  charger_input: V=3.490 I=0.0785 P=0.2740
+  boost_duty=56.71% buck_duty=3.00% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2531764 co2_ppm=321.3 pm2p5_ug_m3=18.49 boost_v=4.982 charger_v=3.502
+Telemetry sample:
+  uptime_ms=2531764
+  SCD30 ok=1 CO2=321.3 ppm T=26.92 C RH=29.12 %
+  SPS30 ok=1 PM1=10.11 PM2.5=18.49 PM4=20.42 PM10=23.56
+  flame_adc=26 flame_digital=1
+  boost_input: V=4.982 I=0.1183 P=0.5883
+  charger_input: V=3.502 I=0.0729 P=0.2554
+  boost_duty=59.56% buck_duty=3.17% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2541771 co2_ppm=315.7 pm2p5_ug_m3=17.78 boost_v=4.966 charger_v=3.504
+Telemetry sample:
+  uptime_ms=2541771
+  SCD30 ok=1 CO2=315.7 ppm T=26.72 C RH=29.37 %
+  SPS30 ok=1 PM1=10.05 PM2.5=17.78 PM4=19.96 PM10=22.64
+  flame_adc=25 flame_digital=1
+  boost_input: V=4.966 I=0.1104 P=0.5487
+  charger_input: V=3.504 I=0.0746 P=0.2615
+  boost_duty=57.85% buck_duty=2.99% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2551778 co2_ppm=320.0 pm2p5_ug_m3=18.79 boost_v=4.982 charger_v=3.505
+Telemetry sample:
+  uptime_ms=2551778
+  SCD30 ok=1 CO2=320.0 ppm T=26.65 C RH=29.43 %
+  SPS30 ok=1 PM1=10.34 PM2.5=18.79 PM4=20.97 PM10=23.92
+  flame_adc=23 flame_digital=1
+  boost_input: V=4.982 I=0.1078 P=0.5379
+  charger_input: V=3.505 I=0.0715 P=0.2506
+  boost_duty=59.51% buck_duty=2.48% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2561785 co2_ppm=322.1 pm2p5_ug_m3=18.84 boost_v=4.986 charger_v=3.518
+Telemetry sample:
+  uptime_ms=2561785
+  SCD30 ok=1 CO2=322.1 ppm T=26.61 C RH=29.15 %
+  SPS30 ok=1 PM1=10.63 PM2.5=18.84 PM4=21.34 PM10=23.88
+  flame_adc=24 flame_digital=1
+  boost_input: V=4.986 I=0.1098 P=0.5477
+  charger_input: V=3.518 I=0.0660 P=0.2323
+  boost_duty=60.33% buck_duty=2.60% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2571792 co2_ppm=332.5 pm2p5_ug_m3=20.02 boost_v=5.053 charger_v=3.533
+Telemetry sample:
+  uptime_ms=2571792
+  SCD30 ok=1 CO2=332.5 ppm T=26.78 C RH=28.80 %
+  SPS30 ok=1 PM1=10.96 PM2.5=20.02 PM4=22.51 PM10=25.59
+  flame_adc=22 flame_digital=1
+  boost_input: V=5.053 I=0.1082 P=0.5468
+  charger_input: V=3.533 I=0.0677 P=0.2393
+  boost_duty=58.96% buck_duty=2.31% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2581799 co2_ppm=323.0 pm2p5_ug_m3=19.48 boost_v=5.047 charger_v=3.559
+Telemetry sample:
+  uptime_ms=2581799
+  SCD30 ok=1 CO2=323.0 ppm T=26.56 C RH=28.84 %
+  SPS30 ok=1 PM1=10.79 PM2.5=19.48 PM4=21.87 PM10=24.95
+  flame_adc=21 flame_digital=1
+  boost_input: V=5.047 I=0.1038 P=0.5229
+  charger_input: V=3.559 I=0.0599 P=0.2132
+  boost_duty=59.10% buck_duty=2.13% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2591806 co2_ppm=341.0 pm2p5_ug_m3=19.23 boost_v=5.044 charger_v=3.569
+Telemetry sample:
+  uptime_ms=2591806
+  SCD30 ok=1 CO2=341.0 ppm T=26.57 C RH=29.11 %
+  SPS30 ok=1 PM1=10.59 PM2.5=19.23 PM4=21.65 PM10=24.40
+  flame_adc=23 flame_digital=1
+  boost_input: V=5.044 I=0.1006 P=0.5074
+  charger_input: V=3.569 I=0.0622 P=0.2222
+  boost_duty=58.48% buck_duty=2.01% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2601813 co2_ppm=342.5 pm2p5_ug_m3=19.80 boost_v=5.080 charger_v=3.586
+Telemetry sample:
+  uptime_ms=2601813
+  SCD30 ok=1 CO2=342.5 ppm T=26.42 C RH=28.61 %
+  SPS30 ok=1 PM1=10.94 PM2.5=19.80 PM4=22.11 PM10=25.57
+  flame_adc=21 flame_digital=1
+  boost_input: V=5.080 I=0.0917 P=0.4651
+  charger_input: V=3.586 I=0.0612 P=0.2194
+  boost_duty=58.73% buck_duty=1.78% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2611820 co2_ppm=351.5 pm2p5_ug_m3=18.53 boost_v=5.088 charger_v=3.571
+Telemetry sample:
+  uptime_ms=2611820
+  SCD30 ok=1 CO2=351.5 ppm T=26.39 C RH=28.93 %
+  SPS30 ok=1 PM1=10.32 PM2.5=18.53 PM4=20.58 PM10=23.94
+  flame_adc=22 flame_digital=1
+  boost_input: V=5.088 I=0.0005 P=0.0031
+  charger_input: V=3.571 I=0.0589 P=0.2102
+  boost_duty=0.29% buck_duty=2.06% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2621827 co2_ppm=358.8 pm2p5_ug_m3=19.58 boost_v=5.102 charger_v=3.597
+Telemetry sample:
+  uptime_ms=2621827
+  SCD30 ok=1 CO2=358.8 ppm T=26.29 C RH=28.68 %
+  SPS30 ok=1 PM1=10.72 PM2.5=19.58 PM4=22.07 PM10=25.17
+  flame_adc=20 flame_digital=1
+  boost_input: V=5.102 I=0.0001 P=0.0013
+  charger_input: V=3.597 I=0.0583 P=0.2097
+  boost_duty=0.08% buck_duty=1.84% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2631834 co2_ppm=361.9 pm2p5_ug_m3=18.88 boost_v=5.111 charger_v=3.612
+Telemetry sample:
+  uptime_ms=2631834
+  SCD30 ok=1 CO2=361.9 ppm T=26.25 C RH=29.33 %
+  SPS30 ok=1 PM1=10.60 PM2.5=18.88 PM4=21.07 PM10=23.88
+  flame_adc=18 flame_digital=1
+  boost_input: V=5.111 I=0.0001 P=0.0001
+  charger_input: V=3.612 I=0.0539 P=0.1945
+  boost_duty=0.26% buck_duty=1.50% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2641841 co2_ppm=368.7 pm2p5_ug_m3=19.01 boost_v=5.117 charger_v=3.601
+Telemetry sample:
+  uptime_ms=2641841
+  SCD30 ok=1 CO2=368.7 ppm T=26.28 C RH=29.13 %
+  SPS30 ok=1 PM1=10.35 PM2.5=19.01 PM4=21.42 PM10=24.69
+  flame_adc=19 flame_digital=1
+  boost_input: V=5.117 I=0.0005 P=0.0018
+  charger_input: V=3.601 I=0.0472 P=0.1701
+  boost_duty=0.19% buck_duty=1.44% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2651848 co2_ppm=369.7 pm2p5_ug_m3=20.42 boost_v=5.120 charger_v=3.617
+Telemetry sample:
+  uptime_ms=2651848
+  SCD30 ok=1 CO2=369.7 ppm T=26.06 C RH=29.20 %
+  SPS30 ok=1 PM1=11.13 PM2.5=20.42 PM4=22.90 PM10=26.20
+  flame_adc=18 flame_digital=1
+  boost_input: V=5.120 I=-0.0001 P=0.0000
+  charger_input: V=3.617 I=0.0493 P=0.1781
+  boost_duty=0.18% buck_duty=1.37% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2661855 co2_ppm=376.8 pm2p5_ug_m3=19.86 boost_v=5.086 charger_v=3.605
+Telemetry sample:
+  uptime_ms=2661855
+  SCD30 ok=1 CO2=376.8 ppm T=25.99 C RH=29.38 %
+  SPS30 ok=1 PM1=11.10 PM2.5=19.86 PM4=22.03 PM10=25.69
+  flame_adc=18 flame_digital=1
+  boost_input: V=5.086 I=-0.0002 P=0.0002
+  charger_input: V=3.605 I=0.0509 P=0.1835
+  boost_duty=0.26% buck_duty=1.44% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2671862 co2_ppm=384.8 pm2p5_ug_m3=19.65 boost_v=5.071 charger_v=3.634
+Telemetry sample:
+  uptime_ms=2671862
+  SCD30 ok=1 CO2=384.8 ppm T=26.11 C RH=29.41 %
+  SPS30 ok=1 PM1=10.75 PM2.5=19.65 PM4=21.82 PM10=24.79
+  flame_adc=17 flame_digital=1
+  boost_input: V=5.071 I=0.0003 P=0.0013
+  charger_input: V=3.634 I=0.0433 P=0.1573
+  boost_duty=0.38% buck_duty=1.21% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2681869 co2_ppm=388.1 pm2p5_ug_m3=19.20 boost_v=5.088 charger_v=3.628
+Telemetry sample:
+  uptime_ms=2681869
+  SCD30 ok=1 CO2=388.1 ppm T=25.87 C RH=29.37 %
+  SPS30 ok=1 PM1=10.77 PM2.5=19.20 PM4=21.76 PM10=24.90
+  flame_adc=19 flame_digital=1
+  boost_input: V=5.088 I=0.0004 P=0.0028
+  charger_input: V=3.628 I=0.0437 P=0.1585
+  boost_duty=0.22% buck_duty=0.91% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2691876 co2_ppm=399.1 pm2p5_ug_m3=19.42 boost_v=5.116 charger_v=3.658
+Telemetry sample:
+  uptime_ms=2691876
+  SCD30 ok=1 CO2=399.1 ppm T=25.76 C RH=29.18 %
+  SPS30 ok=1 PM1=10.72 PM2.5=19.42 PM4=21.51 PM10=24.94
+  flame_adc=19 flame_digital=1
+  boost_input: V=5.116 I=0.0001 P=0.0007
+  charger_input: V=3.658 I=0.0418 P=0.1528
+  boost_duty=0.17% buck_duty=1.12% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2701883 co2_ppm=405.1 pm2p5_ug_m3=20.26 boost_v=5.114 charger_v=3.651
+Telemetry sample:
+  uptime_ms=2701883
+  SCD30 ok=1 CO2=405.1 ppm T=25.62 C RH=29.53 %
+  SPS30 ok=1 PM1=11.11 PM2.5=20.26 PM4=22.76 PM10=25.81
+  flame_adc=17 flame_digital=1
+  boost_input: V=5.114 I=0.0001 P=0.0001
+  charger_input: V=3.651 I=0.0456 P=0.1663
+  boost_duty=0.06% buck_duty=0.52% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2711890 co2_ppm=417.0 pm2p5_ug_m3=20.58 boost_v=5.123 charger_v=3.661
+Telemetry sample:
+  uptime_ms=2711890
+  SCD30 ok=1 CO2=417.0 ppm T=25.54 C RH=29.71 %
+  SPS30 ok=1 PM1=11.40 PM2.5=20.58 PM4=23.32 PM10=26.55
+  flame_adc=17 flame_digital=1
+  boost_input: V=5.123 I=-0.0002 P=0.0000
+  charger_input: V=3.661 I=0.0408 P=0.1494
+  boost_duty=0.23% buck_duty=0.48% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2721897 co2_ppm=419.0 pm2p5_ug_m3=20.73 boost_v=5.108 charger_v=3.667
+Telemetry sample:
+  uptime_ms=2721897
+  SCD30 ok=1 CO2=419.0 ppm T=25.49 C RH=29.57 %
+  SPS30 ok=1 PM1=11.39 PM2.5=20.73 PM4=23.46 PM10=26.90
+  flame_adc=17 flame_digital=1
+  boost_input: V=5.108 I=-0.0001 P=0.0000
+  charger_input: V=3.667 I=0.0449 P=0.1648
+  boost_duty=0.36% buck_duty=0.51% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2731904 co2_ppm=423.9 pm2p5_ug_m3=20.46 boost_v=5.082 charger_v=3.660
+Telemetry sample:
+  uptime_ms=2731904
+  SCD30 ok=1 CO2=423.9 ppm T=25.59 C RH=29.58 %
+  SPS30 ok=1 PM1=11.41 PM2.5=20.46 PM4=22.64 PM10=26.55
+  flame_adc=17 flame_digital=1
+  boost_input: V=5.082 I=-0.0001 P=0.0005
+  charger_input: V=3.660 I=0.0427 P=0.1565
+  boost_duty=0.46% buck_duty=0.40% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2741911 co2_ppm=432.2 pm2p5_ug_m3=20.18 boost_v=5.072 charger_v=3.687
+Telemetry sample:
+  uptime_ms=2741911
+  SCD30 ok=1 CO2=432.2 ppm T=25.28 C RH=29.70 %
+  SPS30 ok=1 PM1=11.01 PM2.5=20.18 PM4=22.59 PM10=25.62
+  flame_adc=19 flame_digital=1
+  boost_input: V=5.072 I=-0.0001 P=0.0000
+  charger_input: V=3.687 I=0.0401 P=0.1479
+  boost_duty=0.09% buck_duty=0.78% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2751918 co2_ppm=439.0 pm2p5_ug_m3=19.47 boost_v=5.128 charger_v=3.685
+Telemetry sample:
+  uptime_ms=2751918
+  SCD30 ok=1 CO2=439.0 ppm T=25.41 C RH=30.39 %
+  SPS30 ok=1 PM1=11.03 PM2.5=19.47 PM4=21.88 PM10=25.15
+  flame_adc=18 flame_digital=1
+  boost_input: V=5.128 I=0.0004 P=0.0024
+  charger_input: V=3.685 I=0.0393 P=0.1449
+  boost_duty=0.06% buck_duty=0.54% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2761925 co2_ppm=440.4 pm2p5_ug_m3=20.34 boost_v=5.083 charger_v=3.682
+Telemetry sample:
+  uptime_ms=2761925
+  SCD30 ok=1 CO2=440.4 ppm T=25.26 C RH=29.82 %
+  SPS30 ok=1 PM1=11.25 PM2.5=20.34 PM4=22.68 PM10=25.86
+  flame_adc=19 flame_digital=1
+  boost_input: V=5.083 I=0.0004 P=0.0017
+  charger_input: V=3.682 I=0.0411 P=0.1514
+  boost_duty=0.49% buck_duty=0.39% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2771932 co2_ppm=436.4 pm2p5_ug_m3=20.62 boost_v=5.098 charger_v=3.706
+Telemetry sample:
+  uptime_ms=2771932
+  SCD30 ok=1 CO2=436.4 ppm T=24.98 C RH=30.63 %
+  SPS30 ok=1 PM1=11.28 PM2.5=20.62 PM4=22.84 PM10=26.00
+  flame_adc=21 flame_digital=1
+  boost_input: V=5.098 I=-0.0001 P=0.0000
+  charger_input: V=3.706 I=0.0377 P=0.1399
+  boost_duty=0.19% buck_duty=0.15% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2781939 co2_ppm=444.8 pm2p5_ug_m3=20.60 boost_v=5.085 charger_v=3.715
+Telemetry sample:
+  uptime_ms=2781939
+  SCD30 ok=1 CO2=444.8 ppm T=24.98 C RH=30.69 %
+  SPS30 ok=1 PM1=11.47 PM2.5=20.60 PM4=22.93 PM10=26.31
+  flame_adc=20 flame_digital=1
+  boost_input: V=5.085 I=-0.0003 P=0.0000
+  charger_input: V=3.715 I=0.0411 P=0.1527
+  boost_duty=0.25% buck_duty=0.81% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2791946 co2_ppm=441.6 pm2p5_ug_m3=19.32 boost_v=5.072 charger_v=3.700
+Telemetry sample:
+  uptime_ms=2791946
+  SCD30 ok=1 CO2=441.6 ppm T=25.03 C RH=30.53 %
+  SPS30 ok=1 PM1=10.88 PM2.5=19.32 PM4=21.61 PM10=24.68
+  flame_adc=21 flame_digital=1
+  boost_input: V=5.072 I=-0.0002 P=0.0000
+  charger_input: V=3.700 I=0.0402 P=0.1488
+  boost_duty=0.39% buck_duty=0.58% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2801953 co2_ppm=446.6 pm2p5_ug_m3=19.16 boost_v=5.091 charger_v=3.739
+Telemetry sample:
+  uptime_ms=2801953
+  SCD30 ok=1 CO2=446.6 ppm T=24.79 C RH=30.72 %
+  SPS30 ok=1 PM1=10.52 PM2.5=19.16 PM4=21.62 PM10=24.14
+  flame_adc=20 flame_digital=1
+  boost_input: V=5.091 I=0.0005 P=0.0023
+  charger_input: V=3.739 I=0.0391 P=0.1463
+  boost_duty=0.22% buck_duty=0.28% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2811960 co2_ppm=450.3 pm2p5_ug_m3=19.56 boost_v=5.089 charger_v=3.743
+Telemetry sample:
+  uptime_ms=2811960
+  SCD30 ok=1 CO2=450.3 ppm T=24.69 C RH=31.14 %
+  SPS30 ok=1 PM1=10.72 PM2.5=19.56 PM4=22.15 PM10=25.23
+  flame_adc=23 flame_digital=1
+  boost_input: V=5.089 I=0.0004 P=0.0022
+  charger_input: V=3.743 I=0.0431 P=0.1615
+  boost_duty=0.49% buck_duty=0.19% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2821967 co2_ppm=451.3 pm2p5_ug_m3=20.62 boost_v=5.090 charger_v=3.736
+Telemetry sample:
+  uptime_ms=2821967
+  SCD30 ok=1 CO2=451.3 ppm T=24.55 C RH=31.19 %
+  SPS30 ok=1 PM1=11.42 PM2.5=20.62 PM4=23.18 PM10=26.68
+  flame_adc=25 flame_digital=1
+  boost_input: V=5.090 I=0.0004 P=0.0027
+  charger_input: V=3.736 I=0.0465 P=0.1739
+  boost_duty=0.39% buck_duty=0.89% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2831974 co2_ppm=454.0 pm2p5_ug_m3=19.73 boost_v=5.071 charger_v=3.747
+Telemetry sample:
+  uptime_ms=2831974
+  SCD30 ok=1 CO2=454.0 ppm T=24.51 C RH=31.24 %
+  SPS30 ok=1 PM1=10.83 PM2.5=19.73 PM4=21.92 PM10=25.49
+  flame_adc=25 flame_digital=1
+  boost_input: V=5.071 I=-0.0002 P=0.0000
+  charger_input: V=3.747 I=0.0470 P=0.1760
+  boost_duty=0.46% buck_duty=0.34% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2841981 co2_ppm=455.8 pm2p5_ug_m3=19.27 boost_v=5.118 charger_v=3.731
+Telemetry sample:
+  uptime_ms=2841981
+  SCD30 ok=1 CO2=455.8 ppm T=24.56 C RH=31.36 %
+  SPS30 ok=1 PM1=10.72 PM2.5=19.27 PM4=21.52 PM10=24.72
+  flame_adc=23 flame_digital=1
+  boost_input: V=5.118 I=0.0001 P=0.0001
+  charger_input: V=3.731 I=0.0451 P=0.1683
+  boost_duty=0.45% buck_duty=0.57% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2851988 co2_ppm=458.0 pm2p5_ug_m3=19.59 boost_v=5.093 charger_v=3.750
+Telemetry sample:
+  uptime_ms=2851988
+  SCD30 ok=1 CO2=458.0 ppm T=24.41 C RH=31.79 %
+  SPS30 ok=1 PM1=10.80 PM2.5=19.59 PM4=21.89 PM10=24.82
+  flame_adc=26 flame_digital=1
+  boost_input: V=5.093 I=0.0001 P=0.0000
+  charger_input: V=3.750 I=0.0469 P=0.1760
+  boost_duty=0.27% buck_duty=0.63% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2861995 co2_ppm=457.8 pm2p5_ug_m3=19.28 boost_v=5.085 charger_v=3.773
+Telemetry sample:
+  uptime_ms=2861995
+  SCD30 ok=1 CO2=457.8 ppm T=24.32 C RH=31.85 %
+  SPS30 ok=1 PM1=10.53 PM2.5=19.28 PM4=21.39 PM10=24.30
+  flame_adc=25 flame_digital=1
+  boost_input: V=5.085 I=0.0005 P=0.0018
+  charger_input: V=3.773 I=0.0479 P=0.1807
+  boost_duty=0.21% buck_duty=0.76% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2872002 co2_ppm=452.4 pm2p5_ug_m3=19.13 boost_v=5.114 charger_v=3.749
+Telemetry sample:
+  uptime_ms=2872002
+  SCD30 ok=1 CO2=452.4 ppm T=24.25 C RH=32.26 %
+  SPS30 ok=1 PM1=10.60 PM2.5=19.13 PM4=21.33 PM10=24.61
+  flame_adc=26 flame_digital=1
+  boost_input: V=5.114 I=0.0003 P=0.0018
+  charger_input: V=3.749 I=0.0499 P=0.1869
+  boost_duty=0.48% buck_duty=0.95% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2882009 co2_ppm=451.0 pm2p5_ug_m3=19.26 boost_v=5.082 charger_v=3.761
+Telemetry sample:
+  uptime_ms=2882009
+  SCD30 ok=1 CO2=451.0 ppm T=24.19 C RH=32.30 %
+  SPS30 ok=1 PM1=10.80 PM2.5=19.26 PM4=21.30 PM10=24.28
+  flame_adc=25 flame_digital=1
+  boost_input: V=5.082 I=0.0003 P=0.0015
+  charger_input: V=3.761 I=0.0496 P=0.1865
+  boost_duty=0.08% buck_duty=1.04% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2892016 co2_ppm=465.2 pm2p5_ug_m3=18.98 boost_v=5.092 charger_v=3.762
+Telemetry sample:
+  uptime_ms=2892016
+  SCD30 ok=1 CO2=465.2 ppm T=23.94 C RH=32.53 %
+  SPS30 ok=1 PM1=10.72 PM2.5=18.98 PM4=21.00 PM10=23.94
+  flame_adc=27 flame_digital=1
+  boost_input: V=5.092 I=-0.0002 P=0.0000
+  charger_input: V=3.762 I=0.0564 P=0.2121
+  boost_duty=0.21% buck_duty=0.78% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2902023 co2_ppm=464.5 pm2p5_ug_m3=19.35 boost_v=5.070 charger_v=3.796
+Telemetry sample:
+  uptime_ms=2902023
+  SCD30 ok=1 CO2=464.5 ppm T=23.94 C RH=32.89 %
+  SPS30 ok=1 PM1=10.57 PM2.5=19.35 PM4=21.40 PM10=24.97
+  flame_adc=29 flame_digital=1
+  boost_input: V=5.070 I=0.0002 P=0.0013
+  charger_input: V=3.796 I=0.0533 P=0.2022
+  boost_duty=0.33% buck_duty=1.30% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2912030 co2_ppm=456.9 pm2p5_ug_m3=18.62 boost_v=5.086 charger_v=3.791
+Telemetry sample:
+  uptime_ms=2912030
+  SCD30 ok=1 CO2=456.9 ppm T=23.76 C RH=33.14 %
+  SPS30 ok=1 PM1=10.41 PM2.5=18.62 PM4=20.86 PM10=23.66
+  flame_adc=28 flame_digital=1
+  boost_input: V=5.086 I=0.0003 P=0.0014
+  charger_input: V=3.791 I=0.0534 P=0.2024
+  boost_duty=0.13% buck_duty=1.41% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2922037 co2_ppm=464.8 pm2p5_ug_m3=18.35 boost_v=5.091 charger_v=3.792
+Telemetry sample:
+  uptime_ms=2922037
+  SCD30 ok=1 CO2=464.8 ppm T=23.75 C RH=33.74 %
+  SPS30 ok=1 PM1=10.38 PM2.5=18.35 PM4=20.71 PM10=23.26
+  flame_adc=30 flame_digital=1
+  boost_input: V=5.091 I=-0.0003 P=0.0000
+  charger_input: V=3.792 I=0.0560 P=0.2122
+  boost_duty=0.28% buck_duty=1.54% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2932044 co2_ppm=460.8 pm2p5_ug_m3=19.30 boost_v=5.088 charger_v=3.781
+Telemetry sample:
+  uptime_ms=2932044
+  SCD30 ok=1 CO2=460.8 ppm T=23.79 C RH=33.66 %
+  SPS30 ok=1 PM1=10.89 PM2.5=19.30 PM4=21.73 PM10=24.69
+  flame_adc=28 flame_digital=1
+  boost_input: V=5.088 I=-0.0001 P=0.0000
+  charger_input: V=3.781 I=0.0595 P=0.2252
+  boost_duty=0.49% buck_duty=1.59% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2942051 co2_ppm=466.8 pm2p5_ug_m3=19.43 boost_v=5.122 charger_v=3.788
+Telemetry sample:
+  uptime_ms=2942051
+  SCD30 ok=1 CO2=466.8 ppm T=23.58 C RH=34.09 %
+  SPS30 ok=1 PM1=10.68 PM2.5=19.43 PM4=21.74 PM10=24.52
+  flame_adc=28 flame_digital=1
+  boost_input: V=5.122 I=0.0001 P=0.0013
+  charger_input: V=3.788 I=0.0649 P=0.2459
+  boost_duty=0.44% buck_duty=1.33% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2952058 co2_ppm=464.0 pm2p5_ug_m3=19.59 boost_v=5.130 charger_v=3.794
+Telemetry sample:
+  uptime_ms=2952058
+  SCD30 ok=1 CO2=464.0 ppm T=23.46 C RH=34.06 %
+  SPS30 ok=1 PM1=10.67 PM2.5=19.59 PM4=22.18 PM10=24.90
+  flame_adc=30 flame_digital=1
+  boost_input: V=5.130 I=0.0002 P=0.0004
+  charger_input: V=3.794 I=0.0658 P=0.2496
+  boost_duty=0.17% buck_duty=2.17% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2962065 co2_ppm=457.0 pm2p5_ug_m3=18.50 boost_v=5.114 charger_v=3.817
+Telemetry sample:
+  uptime_ms=2962065
+  SCD30 ok=1 CO2=457.0 ppm T=23.53 C RH=34.64 %
+  SPS30 ok=1 PM1=10.22 PM2.5=18.50 PM4=20.95 PM10=23.77
+  flame_adc=29 flame_digital=1
+  boost_input: V=5.114 I=0.0004 P=0.0018
+  charger_input: V=3.817 I=0.0692 P=0.2640
+  boost_duty=0.10% buck_duty=1.60% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2972072 co2_ppm=467.4 pm2p5_ug_m3=18.77 boost_v=5.087 charger_v=3.821
+Telemetry sample:
+  uptime_ms=2972072
+  SCD30 ok=1 CO2=467.4 ppm T=23.39 C RH=34.53 %
+  SPS30 ok=1 PM1=10.52 PM2.5=18.77 PM4=21.17 PM10=23.88
+  flame_adc=30 flame_digital=1
+  boost_input: V=5.087 I=0.0000 P=0.0004
+  charger_input: V=3.821 I=0.0707 P=0.2702
+  boost_duty=0.25% buck_duty=1.91% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2982079 co2_ppm=468.6 pm2p5_ug_m3=17.73 boost_v=5.093 charger_v=3.835
+Telemetry sample:
+  uptime_ms=2982079
+  SCD30 ok=1 CO2=468.6 ppm T=23.25 C RH=34.77 %
+  SPS30 ok=1 PM1=10.02 PM2.5=17.73 PM4=19.98 PM10=22.35
+  flame_adc=31 flame_digital=1
+  boost_input: V=5.093 I=0.0000 P=0.0002
+  charger_input: V=3.835 I=0.0765 P=0.2933
+  boost_duty=0.32% buck_duty=2.38% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=2992086 co2_ppm=464.4 pm2p5_ug_m3=18.90 boost_v=5.077 charger_v=3.824
+Telemetry sample:
+  uptime_ms=2992086
+  SCD30 ok=1 CO2=464.4 ppm T=23.09 C RH=35.34 %
+  SPS30 ok=1 PM1=10.41 PM2.5=18.90 PM4=21.12 PM10=24.54
+  flame_adc=30 flame_digital=1
+  boost_input: V=5.077 I=0.0002 P=0.0005
+  charger_input: V=3.824 I=0.0746 P=0.2852
+  boost_duty=0.46% buck_duty=2.07% charge_current_limit_mA=250
+  fault_flags=0x0
+SCD30 read: OK
+SPS30 read: OK
+LoRa init placeholder: radio implementation intentionally not filled in yet
+LoRa transmit placeholder: uptime_ms=3002093 co2_ppm=466.7 pm2p5_ug_m3=17.97 boost_v=5.074 charger_v=3.834
+Telemetry sample:
+  uptime_ms=3002093
+  SCD30 ok=1 CO2=466.7 ppm T=23.00 C RH=35.49 %
+  SPS30 ok=1 PM1=9.84 PM2.5=17.97 PM4=20.28 PM10=22.94
+  flame_adc=28 flame_digital=1
+  boost_input: V=5.074 I=0.0004 P=0.0022
+  charger_input: V=3.834 I=0.0801 P=0.3071
+  boost_duty=0.44% buck_duty=2.53% charge_current_limit_mA=250
+  fault_flags=0x0
