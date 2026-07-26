@@ -99,3 +99,9 @@ panel, they just aren't plotted.
 - `data/sample-log.txt` — short real RX capture
 - `data/demo-long.txt`, `data/demo-telemetry.txt` — synthetic captures
   (regenerate: `node tools/gen-demo-data.js`)
+
+## SDR LoRA Waveform Capture
+Spectrogram of a waveform transmitted by LoRA.
+
+![LoRa spectrogram](lora_spectrogram.png)
+
